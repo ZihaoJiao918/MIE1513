@@ -1,0 +1,7 @@
+AVGNEIGHBOURHOODLISTINGPRICE [AvgNeighbourhoodListingPrice test cases]: False {Exception in function}
+COUNTWORDS [countWords test cases]: True {None}
+DIVISORS [divisors test cases]: True {None}
+LEASTSQUARESFIT [leastSquaresFit test cases]: False {Test case failed: return value is not as expected}
+ONLYUPPERCASE [onlyUpperCase test cases]: True {None}
+ORGANIZEDCOUNTWORDS [organizedCountWords test cases]: True {None}
+POSITIONWORD [positionWord test cases]: True {None}

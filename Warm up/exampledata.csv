@@ -1,0 +1,729 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\fnil\fcharset77 ZapfDingbatsITC;
+\f3\fnil\fcharset0 AppleColorEmoji;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365\
+1419,Beautiful home in amazing area!,1565,Alexandra,,Little Portugal,43.64617,-79.42451,Entire home/apt,470,4,7,2017-12-04,0.14,1,0\
+8077,Downtown Harbourfront Private Room,22795,Kathie & Larry,,Waterfront Communities-The Island,43.64105,-79.37628,Private room,100,180,169,2013-08-27,1.39,2,0\
+12604,Seaton Village Parlour Bedroom,48239,Rona,,Annex,43.66724,-79.41598,Private room,67,1,0,,,1,0\
+23691,Queen Bedroom close to downtown,93825,Yohan & Sarah,,Briar Hill-Belgravia,43.69602,-79.45468,Private room,72,1,209,2019-04-23,1.87,2,244\
+26654,"World Class downtown@ CN Tower! Jays, TIFF, ACC",113345,Adela,,Waterfront Communities-The Island,43.6453,-79.3894,Entire home/apt,199,4,37,2019-05-14,0.35,7,357\
+27423,Executive Studio Unit- Ideal for One Person,118124,Brent,,Greenwood-Coxwell,43.6689,-79.32592,Entire home/apt,55,120,26,2011-08-30,0.23,1,0\
+30931,Downtown Toronto - Waterview Condo,22795,Kathie & Larry,,Waterfront Communities-The Island,43.64151,-79.37643,Entire home/apt,133,180,1,2010-08-11,0.01,2,365\
+40456,Downtown 2  Bdr.Apt with King Size Bed and Parking,174063,Denis,,South Parkdale,43.63532,-79.44049,Entire home/apt,125,30,105,2019-08-05,0.96,3,346\
+41887,Great location,183071,Kyle,,Oakridge,43.69458,-79.28681,Entire home/apt,69,2,80,2019-06-01,2.43,2,236\
+43964,Bright entire 2-bedrm basement suite private entry,192364,Mitra,,Wexford/Maryvale,43.74858,-79.29111,Entire home/apt,90,2,29,2019-07-23,0.92,1,361\
+44452,Yonge & Bloor Studio Skyline,195095,Urbano,,Rosedale-Moore Park,43.67185,-79.38583,Entire home/apt,141,1,49,2019-04-27,0.45,13,242\
+44469,Yonge & Bloor 2 Bedroom Apartment,195095,Urbano,,Rosedale-Moore Park,43.67136,-79.38598,Private room,110,1,8,2017-08-27,0.08,13,281\
+45399,Fountain View Studio - Eaton center,195095,Urbano,,Church-Yonge Corridor,43.65972,-79.38172,Entire home/apt,145,1,71,2019-07-20,0.66,13,313\
+45453,Yonge & Bloor 2 Bedroom Master,195095,Urbano,,Rosedale-Moore Park,43.67191,-79.38585,Private room,105,1,9,2018-09-02,0.09,13,281\
+45893,Yonge & Bloor Lakeview Master BR  ,195095,Urbano,,Rosedale-Moore Park,43.67105,-79.38481,Private room,105,1,18,2019-06-01,0.17,13,222\
+50110,Yorkville one bedroom Condo,195095,Urbano,,Church-Yonge Corridor,43.66899,-79.38548,Entire home/apt,161,1,46,2019-07-04,0.43,13,335\
+51616,Large room in trendy King Street West.,237587,John,,Niagara,43.64296,-79.40451,Private room,54,91,24,2018-11-11,0.66,1,179\
+62545,Furnished Heritage Rooms Downtown 1,304551,Kintoo,,Niagara,43.6458,-79.40769,Private room,65,60,21,2017-08-02,0.20,6,232\
+64003,Downtown Toronto 4BR Townhouse,312769,Jerome,,Moss Park,43.65955,-79.36701,Entire home/apt,350,3,92,2019-07-31,0.89,1,81\
+64641,Furnished Heritage Rooms Downtown,304551,Kintoo,,Niagara,43.6444,-79.40829,Private room,65,7,16,2019-08-04,0.15,6,296\
+64645,Furnished Heritage Suite Downtown,304551,Kintoo,,Niagara,43.64585,-79.40853,Private room,88,20,11,2018-08-31,0.11,6,282\
+65238,Zen South Facing Bedroom in Quiet Art-Filled Home,318911,Magali,,Palmerston-Little Italy,43.65853,-79.42709,Private room,56,2,60,2019-06-30,0.60,2,293\
+69464,Yonge & Bloor one bedroom Condo,195095,Urbano,,Rosedale-Moore Park,43.67094,-79.38581,Entire home/apt,149,1,39,2019-05-17,0.38,13,339\
+75051,"GreatSpace,Backyard, 5min to Subway",368707,Sandra,,Dufferin Grove,43.65956,-79.43228,Entire home/apt,145,5,272,2018-08-04,2.66,2,99\
+82694,Luxury Hotel Downtown Living !!,431260,Caterina,,Niagara,43.64171,-79.40469,Entire home/apt,107,30,29,2016-09-23,0.29,1,342\
+84076,A short walk to TIFF,544254,Darryl,,Niagara,43.64457,-79.40451,Entire home/apt,145,3,6,2018-08-20,0.08,1,0\
+84151,North City View Yonge/Bloor,195095,Urbano,,Church-Yonge Corridor,43.67033,-79.38612,Entire home/apt,145,1,24,2017-07-02,0.25,13,303\
+89575,Private bedroom close to downtown,93825,Yohan & Sarah,,Briar Hill-Belgravia,43.69662,-79.45325,Private room,62,1,83,2019-04-21,0.88,2,251\
+96336,John & Bren's Queen West 3 bedroom townhouse,511506,John,,Niagara,43.64458,-79.41022,Entire home/apt,235,3,116,2019-07-14,1.65,1,185\
+98136,Two Bedroom House on Toronto Island,518383,Anthea,,Waterfront Communities-The Island,43.63266,-79.35616,Entire home/apt,300,2,57,2019-05-20,0.58,1,40\
+104096,Hip and modern family-friendly home,349172,Avery,,South Riverdale,43.66527,-79.32934,Entire home/apt,175,5,18,2019-08-03,0.18,1,261\
+104722,Annex apartment - with great deck!,455397,Carly,,Annex,43.67175,-79.40398,Entire home/apt,160,2,6,2018-10-08,0.13,1,0\
+112842,Gorgeous Condo near High Park!!,575127,Micheline,,High Park North,43.65623,-79.46667,Entire home/apt,54,120,12,2017-03-05,0.13,1,313\
+113175,Best luxury location in downtown Toronto!,576192,Faria,,Waterfront Communities-The Island,43.64123,-79.39339,Entire home/apt,105,5,32,2019-05-04,0.32,1,204\
+119441,STYLISH  LAKEVIEW / KING SIZE BED/DOWNTOWN+PARKING,174063,Denis,,South Parkdale,43.63559,-79.44048,Entire home/apt,200,30,76,2018-09-16,0.76,3,362\
+122492,Sunny & Stylish Aprtmnt w easy access to dwntwn,613837,Brett,,Danforth East York,43.68872,-79.3299,Entire home/apt,89,5,104,2019-08-06,1.36,1,106\
+127380,"pleasant apt, centrally located",630920,Peggy,,Yonge-Eglinton,43.7037,-79.4082,Private room,60,1,131,2019-08-04,1.36,1,353\
+131401,WATERFRONT LUXURY SUITE - DOWNTOWN,604233,WaterfrontExecSuites,,Niagara,43.63633,-79.40076,Entire home/apt,68,154,5,2019-01-30,0.10,1,0\
+137099,Beautiful 3 Bedroom Home in Little Italy!,149566,Vinita + Joe,,Palmerston-Little Italy,43.65781,-79.42065,Entire home/apt,239,5,10,2017-08-12,0.10,2,98\
+138613,Warm Family Home Downtown Toronto,676621,Jodi,,Little Portugal,43.64776,-79.42709,Entire home/apt,180,3,5,2016-10-07,0.05,1,0\
+146601,Modern 1BR Downtown - Blue Jays Way,436139,Brian,,Waterfront Communities-The Island,43.64551,-79.39274,Entire home/apt,120,6,7,2015-06-28,0.07,1,39\
+148945,Downtown Toronto Near Lake Ontario,718884,John,,Waterfront Communities-The Island,43.64835,-79.36302,Private room,80,3,22,2018-03-31,0.22,1,306\
+149420,Bloor West Village 1 Bedroom ,666759,Jeannie,,High Park-Swansea,43.64618,-79.48833,Entire home/apt,80,4,30,2019-07-09,0.35,1,179\
+153000,"1,100SqFt. 2B+Den Spacious Green Condo",735795,Raj,,Waterfront Communities-The Island,43.64366,-79.39155,Entire home/apt,249,3,51,2019-08-04,0.52,1,286\
+166742,Private room in heart of Kensington,794394,Jesse,,Kensington-Chinatown,43.65557,-79.40019,Private room,100,1,123,2019-07-22,1.26,2,365\
+179217,Experience Downsview Park,857989,Charlene,,Downsview-Roding-CFB,43.74098,-79.48724,Private room,80,2,16,2019-08-05,0.26,1,352\
+179578,Furnished 1+1 bed Condo Apartment,545074,Sohail,,Woburn,43.78076,-79.24788,Entire home/apt,80,2,0,,,2,0\
+182573,Sunlit Separate Entrance Apartment,591649,Melissa,,Humewood-Cedarvale,43.68683,-79.42274,Entire home/apt,96,90,21,2019-04-30,0.23,2,251\
+183522,Beaches House,880070,John,,The Beaches,43.67254,-79.30023,Entire home/apt,180,120,9,2012-07-22,0.09,1,146\
+184784,2 bd Apt at Yonge & Bloor Yorkville,656777,Pere,,Church-Yonge Corridor,43.66932,-79.38525,Entire home/apt,199,90,58,2019-08-04,0.60,1,144\
+192860,"Modern, Clean & Quiet 2bd @ High Park",533496,Paul,,Junction Area,43.66597,-79.47388,Entire home/apt,115,4,102,2019-06-13,1.06,2,292\
+196360,Trendy King West Room Available!,519337,Karie,,South Parkdale,43.64217,-79.42848,Private room,48,29,1,2014-04-01,0.02,1,118\
+196584,1 Bedroom Apt on Bloor-Danforth subway line!,957466,Karen,,Oakridge,43.69447,-79.28794,Entire home/apt,76,7,12,2018-02-28,0.33,1,134\
+206529,Simplicity-Quiet Room in a House in the Kingsway,1015926,Grant,,Stonegate-Queensway,43.63978,-79.50473,Private room,60,1,23,2019-03-31,0.26,3,162\
+207206,Beautiful Newly Renovated 2BDM Home,1019538,Stefan,,Little Portugal,43.64589,-79.43464,Entire home/apt,250,4,17,2015-08-08,0.19,2,344\
+209226,Boutique living - King West Central,1028504,Cindy,,Niagara,43.63598,-79.41468,Entire home/apt,145,60,35,2017-08-07,0.41,1,275\
+224775,"Location, Location downtown Toronto",1170217,Frank,,Church-Yonge Corridor,43.66168,-79.37937,Private room,85,7,24,2019-07-01,0.48,2,327\
+228568,BEST VIEW in the City! Luxury condo,934821,Rob,,North St.James Town,43.66771,-79.37679,Entire home/apt,400,3,55,2018-09-11,0.59,2,0\
+229913,Upscale 2bed Downtown Toronto-lake,1200620,Sergei,,Niagara,43.63479,-79.39957,Entire home/apt,325,5,10,2017-08-26,0.14,1,356\
+230775,Elegant Private Room Condo-Downtown,706457,Usman,,Bay Street Corridor,43.66993,-79.38742,Private room,119,5,37,2014-05-13,0.39,1,363\
+231530,"Lots of plants, light and records. 1 bedroom.",1210571,Jaclyn,,Dovercourt-Wallace Emerson-Junction,43.66823,-79.43594,Entire home/apt,100,2,0,,,1,0\
+234500,URBAN OASIS: peaceful open concept with parking,1203746,Lisa,,South Riverdale,43.65766,-79.33866,Entire home/apt,141,1,78,2019-08-03,5.86,1,56\
+239449,Cozy Cool Central Downtown 1 BR Apt with balcony,349772,Steven,,Annex,43.66763,-79.40683,Entire home/apt,90,28,21,2019-07-28,0.28,1,103\
+248933,"Bright, top floor apt for 3 adults",1304211,Nadia,,Caledonia-Fairbank,43.68203,-79.45852,Entire home/apt,56,2,91,2019-07-27,0.99,1,28\
+260645,"Heritage  private bdrm & bath, 4",1367540,Linda,,Moss Park,43.6549,-79.37104,Private room,71,1,139,2019-06-23,1.49,4,316\
+261235,"Heritage private bdrm & bath, 7",1367540,Linda,,Moss Park,43.65627,-79.37116,Private room,65,1,70,2019-06-14,0.74,4,290\
+264319,  private bdrm & bath  number 2,1367540,Linda,,Moss Park,43.65551,-79.37133,Private room,65,1,97,2019-07-01,1.05,4,308\
+266300,FURNISHED ONE-BDRM TORONTO KING W,1396237,Jonathan,,Niagara,43.64047,-79.41491,Entire home/apt,105,30,5,2019-06-11,0.19,1,341\
+268403,Two bedroom apt. in lovely house,1311843,Peter,,Roncesvalles,43.64463,-79.44353,Entire home/apt,140,7,7,2018-09-07,0.15,1,357\
+268888,Toronto  Downtown Quiet Area,1408862,Dale,,Broadview North,43.6879,-79.35268,Private room,76,1,0,,,1,364\
+269355,Elegant apartment in the heart of Toronto,1411076,Adam,,Yonge-St.Clair,43.68436,-79.40053,Entire home/apt,200,7,0,,,1,0\
+270330,Large Waterfront Condo Downtown,1415439,Tricia,,Waterfront Communities-The Island,43.64248,-79.37502,Entire home/apt,189,180,79,2017-09-04,0.85,3,126\
+273304,In the heart of Toronto downtown!,1409872,Ravish,,Church-Yonge Corridor,43.6605,-79.38057,Private room,177,2,0,,,1,0\
+273500,Beautiful Executive Victorian House,1430894,Ronen,,Palmerston-Little Italy,43.66023,-79.40935,Entire home/apt,251,2,102,2019-07-29,4.53,10,25\
+280249,private bdrm & bath room 3,1367540,Linda,,Moss Park,43.65831,-79.36885,Private room,75,2,135,2018-10-29,1.45,4,9\
+283628,Baldwin Village Downtown Apartment,1477264,Gloria,,Kensington-Chinatown,43.65481,-79.39697,Private room,134,3,16,2017-09-20,0.17,1,0\
+288341,Beautiful Victorian Home,1368256,Robert,,North St.James Town,43.67093,-79.37298,Entire home/apt,125,14,20,2019-06-22,0.28,1,295\
+289239,Gorgeous home + Stunning city views!,1270530,Stephanie,,Niagara,43.64294,-79.41038,Entire home/apt,199,21,91,2019-07-14,1.01,1,249\
+304065,Stonehouse On Sterling-South Room.,812337,Maria,,Dufferin Grove,43.657,-79.44806,Private room,73,2,14,2019-07-14,0.17,3,324\
+307726,Boutique Chic at Maple Leaf Square,1108156,Karen,,Waterfront Communities-The Island,43.64222,-79.37987,Entire home/apt,110,28,53,2019-06-19,0.58,2,131\
+309402,"Central, beside subway, indoor pool",1591140,Christina,,Mount Pleasant East,43.70926,-79.37707,Shared room,50,1,90,2019-03-19,1.00,2,279\
+312035,Stonehouse On Sterling-Queen Room,812337,Maria,,Dufferin Grove,43.65674,-79.44786,Private room,90,2,22,2018-10-12,0.25,3,365\
+314459,Cosy room by Toronto's Danforth Ave,1615944,Julia,,Blake-Jones,43.67728,-79.33585,Private room,52,28,33,2019-07-31,0.38,1,252\
+314934,Stonehouse On Sterling-Garden Room,812337,Maria,,Dufferin Grove,43.657,-79.44784,Private room,85,2,23,2018-10-22,0.27,3,363\
+325432,"Great 'hood, no car needed, 3.5br",1664812,Mark,,High Park North,43.66205,-79.4561,Entire home/apt,259,5,0,,,1,0\
+327543,Large 1 Bedroom Suite Condo Waterfront + Parking,1631989,Digio,,Waterfront Communities-The Island,43.64754,-79.37527,Entire home/apt,110,4,75,2019-07-27,1.50,2,50\
+341933,"Bright Spacious 2Br Leslieville Home, Local Living",1390920,Sylvia,,South Riverdale,43.66712,-79.33678,Entire home/apt,179,3,133,2019-08-05,1.47,1,164\
+349827,DOWNTOWN Private Room & Bathroom,1772659,Alcira,,Waterfront Communities-The Island,43.64895,-79.388,Private room,89,3,92,2018-12-21,1.07,4,220\
+358663,Private Suite 5 min. from Downtown,1815434,Paul,,Palmerston-Little Italy,43.66195,-79.41141,Entire home/apt,96,7,23,2019-06-30,0.26,2,252\
+361557,Downtown/Stylish 2 Bdr.   Apt /Garden +Parking,174063,Denis,,South Parkdale,43.6354,-79.43854,Entire home/apt,150,30,58,2019-08-04,0.68,3,250\
+361831,Townhome/Condo at The Mona Lisa,1828773,Silvana,,Willowdale East,43.77873,-79.41245,Private room,141,7,0,,,1,365\
+363057,Charming Century House in Beaches,1816495,Katharine,,The Beaches,43.67113,-79.29839,Entire home/apt,230,1,2,2019-07-27,0.08,3,335\
+366973,Spacious Modern Cozy King W Toronto,1015670,Grace,,Waterfront Communities-The Island,43.64341,-79.40046,Entire home/apt,190,3,9,2017-09-12,0.14,1,364\
+379133,Elegant 3 Bedroom+  Rosedale Home ,1903033,Christie,,Rosedale-Moore Park,43.67423,-79.37028,Entire home/apt,651,7,1,2013-08-02,0.01,2,0\
+380910,Fab 1 Bdrm Apt Close to Everything ,1910540,Les,,Danforth,43.6798,-79.34218,Entire home/apt,135,2,31,2019-07-19,0.50,1,141\
+382423,Private Apt. in Kensington Market!,1916855,Manja & Joanne,,Kensington-Chinatown,43.65432,-79.39847,Entire home/apt,112,1,208,2019-07-27,2.32,2,169\
+382960,Bachelor Suite - Financial District,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.64878,-79.38691,Entire home/apt,149,20,11,2019-01-31,0.14,74,41\
+384549,Spacious room in house downtown!,1923052,Justin,,North St.James Town,43.67144,-79.37685,Private room,65,7,0,,,1,0\
+388696,Downtown Private Room-5minto Subway,1944849,Suzan,,Dovercourt-Wallace Emerson-Junction,43.66633,-79.42851,Private room,60,3,18,2017-06-05,0.21,1,341\
+390395,"SUNNY DBL CORKTOWN PRKNG, BREAKFAST, 2 BIKES INCL.",1952926,Sean,,Regent Park,43.65765,-79.36281,Private room,65,1,736,2019-08-05,8.20,1,239\
+394627,Furnished Downtown Studio Suite,304551,Kintoo,,Palmerston-Little Italy,43.66137,-79.41074,Entire home/apt,80,60,2,2016-07-01,0.03,6,124\
+396504,Modern 3 bed home w/garden in funky Queen W,1981383,Clare,,Roncesvalles,43.64283,-79.44686,Entire home/apt,350,3,26,2019-07-28,0.36,1,263\
+401824,Furnished Downtown Studio Suite 1,304551,Kintoo,,Palmerston-Little Italy,43.6607,-79.40954,Private room,80,30,4,2018-11-25,0.05,6,221\
+403200,Yonge & Bloor Lakview Bedroom,195095,Urbano,,Rosedale-Moore Park,43.67149,-79.38611,Private room,96,1,3,2018-08-31,0.04,13,222\
+413276,"Prime downtown! full apartment, wellesley & yonge",2056128,Robert,,Bay Street Corridor,43.6642,-79.38465,Entire home/apt,209,1,68,2019-06-09,0.78,2,340\
+415104,Furnished Luxury Condos North York,2064477,David,,Willowdale East,43.76248,-79.40904,Entire home/apt,155,3,3,2019-07-13,1.67,4,19\
+415110,Downtown Furnished Luxury Condo Toronto,2064477,David,,Waterfront Communities-The Island,43.64275,-79.39161,Entire home/apt,176,3,0,,,4,161\
+415111,Luxury Condo North York - Two Bedroom Suite,2064477,David,,Willowdale East,43.76095,-79.40969,Entire home/apt,226,3,2,2019-07-19,1.58,4,76\
+415135,Torontos Entertainment District ,2064477,David,,Waterfront Communities-The Island,43.64456,-79.39449,Entire home/apt,175,3,2,2017-07-11,0.08,4,354\
+415308,Beautiful Seaton Village Apartment-,1299598,Jill,,Annex,43.66859,-79.41411,Entire home/apt,100,3,28,2019-08-03,0.31,1,358\
+418791,Charming 1BD Apt Toronto West-End,2082581,Haley,,Dufferin Grove,43.65395,-79.43132,Entire home/apt,65,7,3,2013-07-08,0.04,1,0\
+429943,Super Studio in the Upper Beach,377846,Nick & Nena,,East End-Danforth,43.68499,-79.29131,Entire home/apt,69,3,37,2019-07-22,0.43,10,330\
+436403,Heritage Home Downtown Toronto,1429488,Derek,,Moss Park,43.6617,-79.37496,Entire home/apt,196,2,210,2019-08-06,2.69,3,350\
+447884,House available during TIFF,200354,Ayla,,Kensington-Chinatown,43.65646,-79.4031,Private room,200,2,1,2014-03-31,0.02,1,0\
+449650,A House That's Good for the Soul,1402232,Abigail,,South Parkdale,43.63927,-79.43033,Entire home/apt,249,1,218,2019-08-03,3.58,5,318\
+454176,Perfect Pied-a-Terre Near the Beach,2256396,John,,Woodbine Corridor,43.67711,-79.31048,Entire home/apt,65,30,1,2012-08-01,0.01,2,342\
+454927,Downtown Toronto private bdrm&bath,2260447,David,,Church-Yonge Corridor,43.66088,-79.38043,Private room,90,2,296,2019-08-07,3.37,3,230\
+455640,Charming House in Great Location ,591649,Melissa,,Humewood-Cedarvale,43.68698,-79.42234,Entire home/apt,140,30,9,2015-11-01,0.11,2,0\
+456371,Calming Bedroom 1 - Beaches Toronto,2268652,Julie,,Woodbine Corridor,43.67741,-79.31079,Private room,27,30,14,2019-03-03,0.22,3,138\
+457588,Furnished Luxury @ The Eaton Centre,1805882,Elisabeth,,Church-Yonge Corridor,43.65475,-79.37934,Private room,275,5,7,2018-06-29,0.09,4,365\
+460994,COMFORTABLE APARTMENT IN YORKVILE,2291374,Daniel,,Church-Yonge Corridor,43.66883,-79.38365,Entire home/apt,199,360,0,,,1,365\
+462366,Quaint Mid-Town Toronto Guestroom,2297131,Liz,,Brookhaven-Amesbury,43.7063,-79.48768,Private room,54,1,26,2019-06-30,0.31,1,321\
+464313,Private Downtown Victorian House. Fully Equipped,2307239,Harold,,Waterfront Communities-The Island,43.64428,-79.40268,Entire home/apt,188,3,55,2019-06-23,0.75,1,261\
+466650,Spacious Scandinavian Style Home in King West,1039434,Juli,,Waterfront Communities-The Island,43.64353,-79.40154,Entire home/apt,165,30,49,2019-05-30,0.58,3,155\
+473827,Designer-inspired Toronto living.,2349264,George / John,,Oakwood Village,43.68767,-79.44004,Entire home/apt,107,28,97,2018-11-09,1.13,1,99\
+493281,Prestigious Wychwood Park Studio CA,2432916,Denise,,Wychwood,43.67775,-79.42171,Private room,76,3,0,,,1,314\
+495303,Your Home In Toronto,1241161,Danny,,Dovercourt-Wallace Emerson-Junction,43.66444,-79.42534,Entire home/apt,115,3,107,2019-07-11,1.28,2,173\
+499590,Families with Small Kids Welcome,1615266,Lewelyn,,Parkwoods-Donalda,43.75809,-79.31778,Entire home/apt,200,120,1,2012-07-16,0.01,2,306\
+506381,"Private+Spacious,Balcony +Location+Bike!",1299496,Alana,,Annex,43.66697,-79.40509,Entire home/apt,75,3,8,2017-05-16,0.09,1,0\
+509575,Mina's Guest House - Room  # 2,2511000,Arya,,Moss Park,43.65751,-79.37178,Private room,80,3,12,2019-07-21,0.14,24,331\
+511141,Victorian Charmer in West Queen West,2518222,Katie & Philippe,,Little Portugal,43.64887,-79.43202,Entire home/apt,200,2,110,2019-07-24,1.28,3,94\
+511463, gorgeous light- filled loft avail!,211533,Sasha,,Dovercourt-Wallace Emerson-Junction,43.66021,-79.43757,Entire home/apt,150,2,6,2016-08-28,0.08,1,0\
+516823,Cozy + Clean Studio in the Junction,533496,Paul,,Junction Area,43.66585,-79.47556,Entire home/apt,78,5,161,2019-07-31,1.86,2,283\
+517709,Bright House with Vegetable Garden,2549053,Nathalie,,Trinity-Bellwoods,43.65264,-79.411,Entire home/apt,225,2,76,2018-08-16,0.91,1,95\
+519845,A Calm and Cozy Abode,1615266,Lewelyn,,Parkwoods-Donalda,43.75864,-79.31797,Entire home/apt,52,4,38,2019-06-27,0.45,2,306\
+525387,Gorgeous Photogenic Artist's Loft,1559845,Safiya,,Dovercourt-Wallace Emerson-Junction,43.65875,-79.44551,Entire home/apt,143,2,59,2019-07-31,0.68,1,190\
+526594,Small Dog friendly Apt Garden Free Park EV charger,2588098,Reiner,,Willowdale East,43.76542,-79.40359,Entire home/apt,67,28,6,2014-12-01,0.07,1,177\
+526705,High-Tech Authentic Lux Art Loft in Queen West,1698603,Kyle,,Roncesvalles,43.64279,-79.43347,Entire home/apt,138,2,46,2019-08-07,0.54,2,205\
+529089,Tryna get lit?,2577688,Cameron,,Niagara,43.64262,-79.40315,Shared room,67,1,0,,,1,0\
+529189,"Historical, distinctive, and hip",2597290,Caroline,,Trinity-Bellwoods,43.65248,-79.40885,Private room,55,3,143,2019-07-06,1.66,4,307\
+529227,Little Italy-4 bedroom house,2600229,Orsolya,,Palmerston-Little Italy,43.65899,-79.42474,Entire home/apt,295,7,18,2018-08-19,0.21,1,298\
+529256,Room in amazing retro modern space ,2597290,Caroline,,Trinity-Bellwoods,43.65038,-79.41019,Private room,54,3,99,2019-07-20,1.14,4,322\
+533659,Best View in Downtown 5 Star Luxury,1019968,Roman,,Waterfront Communities-The Island,43.63931,-79.38174,Entire home/apt,220,9,135,2019-07-22,1.56,3,163\
+534962,Mina's Guest House Room #1 (1 x Queen Bed + Futon),2511000,Arya,,Moss Park,43.66002,-79.37217,Private room,80,3,8,2019-05-12,0.11,24,87\
+535006,Mina's Guest House Room #3 (1 x Queen Bed + Futon),2511000,Arya,,Moss Park,43.65931,-79.37258,Private room,75,3,11,2019-06-23,0.14,24,98\
+535025,Toronto Mina's Guest House room #6,2511000,Arya,,Moss Park,43.66015,-79.37206,Private room,54,3,23,2019-06-03,0.29,24,78\
+535079,Mina's Guest House - Room  #7,2511000,Arya,,Moss Park,43.65852,-79.37165,Private room,65,3,4,2019-05-01,0.05,24,82\
+535086,Toronto Mina's Guest House -Room 8,2511000,Arya,,Moss Park,43.65796,-79.37146,Private room,65,3,12,2018-10-22,0.16,24,95\
+535110,Toronto Mina's Guest House-Room # 9,2511000,Arya,,Moss Park,43.65823,-79.37213,Private room,60,3,13,2017-02-25,0.15,24,72\
+535124,Mina's Guest House-double room #10,2511000,Arya,,Moss Park,43.66004,-79.37175,Private room,60,3,5,2018-11-21,0.06,24,65\
+537679,NIce room with private bathroom ,2586974,Yin,,Mimico (includes Humber Bay Shores),43.62575,-79.48815,Private room,200,7,0,,,1,365\
+543242,"Little Portugal, Lovely Room!",436011,Mallory And Allen,,Little Portugal,43.65007,-79.42561,Private room,69,2,194,2019-07-25,2.33,1,293\
+543810,Spacious 1+1 Condo Downtown Toronto,2671905,R.,,Waterfront Communities-The Island,43.64147,-79.39269,Entire home/apt,200,3,11,2015-08-16,0.15,1,0\
+547777,A Beautiful Funky Toronto Apartment,2692759,Ayelet And Sean,,Palmerston-Little Italy,43.66101,-79.42695,Entire home/apt,90,2,3,2017-10-17,0.04,1,0\
+553892,Large downtown room with great view,2597290,Caroline,,Trinity-Bellwoods,43.65239,-79.40902,Private room,52,3,176,2019-07-25,2.04,4,326\
+556724,Large family home in High Park,2737251,Shelagh,,High Park-Swansea,43.64842,-79.4546,Entire home/apt,245,6,3,2015-08-19,0.04,1,87\
+563542,Bright Large 2 Bedroom Central,227740,Bojan,,Palmerston-Little Italy,43.65707,-79.41011,Entire home/apt,98,3,1,2013-08-20,0.01,1,0\
+571239,Beautiful Family Home in the City,2811178,David,,Greenwood-Coxwell,43.68181,-79.32462,Entire home/apt,249,3,31,2019-08-05,0.37,2,359\
+571391,Art Deco  -Heart of Toronto - sports & concerts,2695340,Lesli,,Bay Street Corridor,43.66525,-79.38752,Entire home/apt,119,2,48,2019-07-20,0.62,1,325\
+571429,Chic Upper Beach 3 Bedroom Beauty,377846,Nick & Nena,,East End-Danforth,43.68617,-79.29311,Entire home/apt,119,3,28,2019-06-18,0.34,10,216\
+573489,Kid friendly neighbourhood. ,2821694,B,,Wychwood,43.67673,-79.42318,Entire home/apt,350,5,0,,,1,0\
+573892,DOWNTOWN TORONTO LUXURY FURNISHED CORPORATE SUITE,2175675,Frank,,Waterfront Communities-The Island,43.64317,-79.38044,Entire home/apt,169,1,71,2019-07-01,0.84,4,325\
+578292,"Modern Upscale Condo, HUGE Balcony, WALKSCORE 100",2808386,Jason,,Bay Street Corridor,43.65409,-79.38456,Entire home/apt,130,21,5,2019-06-01,0.06,1,287\
+579918,Luxury Queen West Private Loft,1160065,Vee,,Niagara,43.63803,-79.41904,Entire home/apt,130,3,12,2018-09-22,0.14,1,0\
+593324,Charming Victorian in Leslieville,2929774,Susan,,South Riverdale,43.66096,-79.34763,Entire home/apt,114,7,7,2015-10-06,0.08,1,0\
+599591,Artful Retreat & Queer Friendly,2771272,Michelle,,Dufferin Grove,43.65354,-79.43508,Entire home/apt,90,2,185,2019-07-22,2.19,3,306\
+602407,Large bedroom with private bathroom,2980659,Nanou,,Woodbine Corridor,43.67666,-79.31322,Private room,69,4,39,2018-10-02,0.46,1,2\
+602943,Mina's Guest House- Room # 4,2511000,Arya,,Moss Park,43.65759,-79.37072,Private room,65,3,10,2017-03-15,0.14,24,82\
+610699,Greater Toronto Area CONDO,661745,Nishad,,Parkwoods-Donalda,43.75321,-79.33166,Private room,50,30,10,2018-11-04,0.12,1,281\
+611735,Comfort and  quiet   SPECIAL TIFF AVAILABILITY,1241161,Danny,,Dovercourt-Wallace Emerson-Junction,43.66271,-79.42506,Private room,89,2,10,2018-08-05,0.12,2,0\
+613695,House in Little Italy,2741309,Sean,,Palmerston-Little Italy,43.65958,-79.41257,Entire home/apt,75,1,0,,,1,0\
+616011,1 MIN TO SUBWAY  COZY ROOM DOWNTOWN TORONTO,2902804,Gabriela,,North St.James Town,43.6704,-79.37574,Private room,54,2,72,2019-08-05,2.81,2,186\
+620965,Private Room in Artist Home by Transit,897683,Hajnal,,Birchcliffe-Cliffside,43.70519,-79.24774,Private room,34,5,20,2019-07-06,0.24,2,177\
+624190,Danforth/Greek Town  appartment,3096162,Brigitt,,Broadview North,43.69032,-79.35236,Entire home/apt,450,1,0,,,1,0\
+625877,Calming Bedroom 2 - Beaches Toronto,2268652,Julie,,Woodbine Corridor,43.67567,-79.3122,Private room,29,30,13,2019-07-01,0.20,3,257\
+625942,Calming Bedroom 3 - Beaches Toronto,2268652,Julie,,Woodbine Corridor,43.67638,-79.3102,Private room,31,28,9,2017-10-08,0.13,3,220\
+627217,parking space only,3057451,Jessica,,Weston-Pellam Park,43.67368,-79.46032,Shared room,100,1,0,,,1,0\
+629995,Shared Loft in Queen West- On Couch,1698603,Kyle,,Roncesvalles,43.64372,-79.43283,Shared room,71,1,3,2019-06-01,0.04,2,350\
+638500,3 bdrm on Queen West TO,3178928,Lisa Marie,,South Parkdale,43.63912,-79.43946,Entire home/apt,94,4,10,2016-09-26,0.20,1,0\
+638586,Toronto Downtown near TIFF &  Convention Centre,3186285,Solange,,Waterfront Communities-The Island,43.64271,-79.39244,Entire home/apt,200,3,61,2019-04-07,1.00,1,357\
+643389,"Bachelor Apt, 2nd flr, South Window",3217095,Mark,,South Parkdale,43.63514,-79.42736,Entire home/apt,65,7,3,2017-05-20,0.08,1,0\
+643916,House or rooms in lower Junction,574360,Yvonne,,Junction Area,43.66203,-79.47818,Entire home/apt,119,3,5,2016-04-27,0.08,1,220\
+647978,Vibrant 1+1 Condo. CNE/Lake view,3247979,Lev,,Niagara,43.63748,-79.40566,Entire home/apt,141,2,71,2019-07-29,0.98,1,47\
+654048,4 Bedroom House Great Location,3289972,Minoo,,Morningside,43.78505,-79.20887,Entire home/apt,249,4,12,2019-07-21,0.15,1,229\
+655522,Sunny and Charming Apartment,3299954,Basil,,Kensington-Chinatown,43.65805,-79.39601,Entire home/apt,85,4,29,2018-08-10,0.34,1,0\
+662562, CONVENIENTLY LOCATED  STUDIO ,3346401,Frank,,Regent Park,43.65653,-79.36297,Entire home/apt,51,2,0,,,1,0\
+666670,Super Studio in the Upper Beach II,377846,Nick & Nena,,East End-Danforth,43.68524,-79.2911,Entire home/apt,57,3,42,2019-06-29,0.56,10,322\
+666801,Downtown Stylish Bachelor Apartment,3371777,Nedia,,Annex,43.67038,-79.40463,Entire home/apt,98,1,420,2019-07-21,5.05,1,0\
+669162,SPECTACULAR VIEW DWNTOWN TORONTO.,2942180,Jerry,,North St.James Town,43.66675,-79.37549,Entire home/apt,225,7,0,,,1,358\
+674193,"Comfortable, cozy home in convenient mid-town.",3422913,Rosalie,,Mount Pleasant West,43.7024,-79.39664,Private room,65,3,88,2019-07-12,1.09,1,19\
+677355,Private Guest Room in Downtown Toronto,2741400,Rk,,Palmerston-Little Italy,43.65806,-79.41356,Private room,34,1,144,2019-08-01,2.03,5,143\
+682099,Art lovers dream in Queen West,2034186,Jennifer,,Kensington-Chinatown,43.65047,-79.39239,Private room,93,1,231,2019-07-29,2.74,1,92\
+683292, Bedroom with adjacen bath (single ,3482429,Stanley,,Humbermede,43.74975,-79.54777,Private room,38,1,134,2019-04-25,1.61,3,342\
+683293,Large bedroom with private bathroom,3482429,Stanley,,Humbermede,43.74979,-79.54896,Private room,45,1,51,2019-03-24,0.62,3,328\
+701230,Authentic Bright Artist's Loft,3587917,Darby,,High Park North,43.65848,-79.45408,Entire home/apt,100,5,15,2018-07-31,0.20,1,0\
+702286,Beautiful Garden Apt With Porches,3604846,Wies,,Roncesvalles,43.65369,-79.45178,Entire home/apt,230,2,16,2018-03-20,0.19,5,362\
+703124,Your Home Away From Home -3 BEDROOM,3604846,Wies,,High Park-Swansea,43.65541,-79.45327,Entire home/apt,345,4,18,2019-04-12,0.27,5,226\
+703133,2 BDRM 2000SF Executive Suite,3604846,Wies,,High Park-Swansea,43.65541,-79.45289,Entire home/apt,285,4,4,2019-04-20,0.05,5,228\
+707799,LUXURY DOWNTOWN CELEBRITY SUITE!,1289097,Mil\'e9,,Waterfront Communities-The Island,43.64827,-79.36607,Entire home/apt,145,2,3,2012-11-25,0.04,1,240\
+708757,Home away from Home in Toronto,3470868,Maxim,,Long Branch,43.59771,-79.5248,Private room,46,2,55,2019-07-08,0.66,3,344\
+719384,Convenient 1B + Guest Room Condo,1919294,Toronto Suite Rentals,,Bayview Village,43.76686,-79.38285,Entire home/apt,169,28,4,2018-10-08,0.08,74,38\
+720213,# In the heart of Downtown-Classic Victorian Home,3238718,Jeff,,Waterfront Communities-The Island,43.64446,-79.40268,Entire home/apt,189,3,41,2018-10-29,0.50,1,0\
+720645,Cozy Room Close to downtown Toronto,3470868,Maxim,,Long Branch,43.59743,-79.52484,Private room,41,2,107,2019-07-12,1.29,3,333\
+721441,Master Bedroom (Danforth Area),3724790,Boris,,Danforth East York,43.68814,-79.34444,Private room,58,2,41,2018-10-11,0.49,1,331\
+727514,The Whole Enchilada: flexible & hip,2597290,Caroline,,Trinity-Bellwoods,43.65098,-79.41023,Private room,52,7,111,2019-07-13,1.36,4,346\
+728296,Stunning 17FT Ceiling Modern Condo,1919294,Toronto Suite Rentals,,Niagara,43.63752,-79.41382,Entire home/apt,169,28,13,2018-10-04,0.19,74,76\
+728817,Charming Victorian Home,3783106,Jeremy And Monica,,Roncesvalles,43.64111,-79.44661,Entire home/apt,269,4,9,2018-07-22,0.12,1,308\
+732562,Your Leaside Home Near Sunnybrook,3814089,Liz,,Leaside-Bennington,43.71445,-79.36336,Entire home/apt,98,2,141,2019-07-21,2.12,1,305\
+734305,Luxury Condo with City & Lake Views,3827668,Izabela,,Waterfront Communities-The Island,43.64015,-79.39331,Entire home/apt,150,90,19,2016-09-11,0.36,1,220\
+738252,Newly renov 2 bed lower level/ basement suite,3604846,Wies,,High Park-Swansea,43.65394,-79.45248,Entire home/apt,204,3,9,2018-03-08,0.12,5,312\
+742076,Ideal Cosy Quiet City Getaway,3377580,Catherine,,Ionview,43.73273,-79.27358,Entire home/apt,133,30,20,2018-02-24,0.27,1,50\
+756619,Winchester Suite /  Large Modern Bedroom Downtown,3982898,Andrew,,Cabbagetown-South St.James Town,43.66389,-79.3705,Private room,76,2,45,2019-07-06,0.61,3,95\
+761537,Downtown Condo at Yonge & Carlton,3855710,Nick,,Church-Yonge Corridor,43.6598,-79.37992,Entire home/apt,190,7,74,2019-07-24,0.90,1,0\
+762143,Hidden lakeview oasis downtown,4017316,Patricia,,Waterfront Communities-The Island,43.63757,-79.39253,Entire home/apt,93,180,6,2017-06-03,0.09,1,0\
+762427,"Central, beside subway, indoor pool and sauna",1591140,Christina,,Mount Pleasant West,43.70541,-79.39508,Entire home/apt,76,5,40,2019-07-16,0.50,2,121\
+762472,Amazing Loft for rent downtown T.O.,4019741,Peter,,Waterfront Communities-The Island,43.65018,-79.36801,Entire home/apt,138,6,0,,,1,0\
+764983,"Big 3 Bedroom Home, Easy to Beach &  Downtown",3674322,Kim And Jerry,,East End-Danforth,43.68086,-79.30945,Entire home/apt,340,3,23,2018-07-30,0.31,1,311\
+771141,Studio Loft/Walk to Eaton Center,4068231,Margaret,,Moss Park,43.65649,-79.3715,Entire home/apt,75,30,23,2019-06-23,0.30,3,257\
+775965,T.O WEST END,1581404,Jessica Joy,,Roncesvalles,43.65394,-79.44922,Entire home/apt,96,14,2,2019-07-31,0.06,1,258\
+776320,Modern loft-style apt. in Little-Palmerston home,4094364,Ashwini,,Palmerston-Little Italy,43.66237,-79.41412,Entire home/apt,150,2,40,2019-08-01,1.46,2,63\
+778990,1B + Office w/ Large Private Patio,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.64046,-79.39496,Entire home/apt,149,12,9,2019-04-07,0.19,74,115\
+779670,"Rosedale, Furnished Modern 4 Bdrm House",4111007,Stephanie,,Rosedale-Moore Park,43.67687,-79.38436,Entire home/apt,400,5,1,2019-05-10,0.33,1,37\
+783951,King West designer 1 bedroom condo,588352,Igor,,Waterfront Communities-The Island,43.64289,-79.39922,Entire home/apt,150,30,11,2018-07-07,0.14,1,160\
+787074,Stylish Penthouse with Stunning Lake and City View,258360,Tracy,,Junction Area,43.666,-79.46477,Entire home/apt,114,360,61,2018-08-07,0.76,2,364\
+788710,Luxury Toronto Apartment ,844281,Richard,,High Park-Swansea,43.64503,-79.45254,Entire home/apt,80,14,1,2013-03-01,0.01,1,0\
+789266,Walk to Trendy Eateries from a Vibrant Apartment,3921786,Michelle,,Junction Area,43.66528,-79.47276,Entire home/apt,150,2,57,2019-08-05,2.92,1,122\
+790590,Stylish 1 Bedroom Suite + Parking,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.64044,-79.39541,Entire home/apt,149,5,13,2018-05-22,0.19,74,5\
+790887,"Prime Downtown *SHARED* apartment, Wellesley&Yonge",2056128,Robert,,Bay Street Corridor,43.66455,-79.38533,Private room,114,1,155,2019-08-02,2.07,2,342\
+791012,1+ den near CN Tower w/ parking,4167411,Andie,,Waterfront Communities-The Island,43.64071,-79.39318,Entire home/apt,130,2,4,2015-08-16,0.08,1,0\
+791485,"Cute rm w/breakfast, Toronto subway",4169949,Tammy,,Blake-Jones,43.67421,-79.3418,Private room,62,1,68,2019-07-07,1.28,1,347\
+794506,Beautiful suite in Downtown Toronto,4186011,Oron,,Waterfront Communities-The Island,43.63989,-79.39035,Entire home/apt,150,3,31,2019-07-16,0.49,1,29\
+796501,Stunning modern bachelor apartment,4195876,Dale,,Casa Loma,43.68249,-79.4046,Private room,159,1,73,2019-07-31,1.02,2,357\
+812922,Large Bright Room - Great Window - in Toronto Home,3431521,Sandra,,Roncesvalles,43.64142,-79.43952,Private room,45,2,52,2017-11-04,0.69,2,7\
+815663,Walk to CN Tower/Rogers Centre,1301725,Gisella & Cesar,,Waterfront Communities-The Island,43.64633,-79.39261,Entire home/apt,140,3,36,2019-07-20,0.50,2,310\
+818228,Private Room in Downtown Toronto RM2,4297691,Graeme,,Dovercourt-Wallace Emerson-Junction,43.65854,-79.44323,Private room,45,1,281,2019-07-14,3.85,3,341\
+819957,Dovercourt Village Holiday,4306694,Alex,,Dovercourt-Wallace Emerson-Junction,43.66744,-79.42984,Private room,60,3,6,2019-07-15,0.08,1,87\
+819981,"Quiet, Sunny, Cozy & Eco 1 bedroom",4306837,Laura,,Dufferin Grove,43.65217,-79.43591,Entire home/apt,45,1,25,2018-09-09,0.96,1,0\
+820177,Little Italy 1 Bedroom Apt - Excellent Location!,149566,Vinita + Joe,,Palmerston-Little Italy,43.65696,-79.42003,Entire home/apt,88,2,32,2018-11-01,0.40,2,88\
+822085,Beautiful Deluxe Toronto Home,4316883,Scott,,Rosedale-Moore Park,43.68885,-79.37839,Entire home/apt,982,3,6,2018-09-16,0.12,1,364\
+826801,A Cozy Room in Beautiful Apartment,4336212,Renu,,Niagara,43.63528,-79.40189,Private room,96,3,10,2019-08-04,0.27,1,0\
+827774,Beautiful House in Central Toronto,4340437,Ted,,Danforth,43.68141,-79.3353,Private room,85,1,0,,,1,0\
+829737,Modern Downtown Two Bedroom July 2019,349619,Cristina,,Regent Park,43.66101,-79.36323,Entire home/apt,85,4,4,2019-01-11,0.17,3,1\
+832458,"Cozy Quiet Apartment, Plenty of Tea",4357559,Robin,,Palmerston-Little Italy,43.65474,-79.42532,Entire home/apt,94,3,161,2019-07-04,2.00,1,1\
+833588,Lovely place in prime Yorkville,4361863,Henry,,Annex,43.67034,-79.39203,Entire home/apt,130,5,3,2016-09-01,0.04,1,288\
+834150,Cosy room in a funky apartment,3491443,Lauren,,Little Portugal,43.65132,-79.43274,Private room,45,2,34,2018-05-12,0.42,2,0\
+835116,Comfy 1BD Great Location! Park Free,2019357,Tyrone,,South Riverdale,43.66336,-79.34374,Entire home/apt,109,1,22,2015-09-19,0.27,1,0\
+840235,Modern Canadiana Cottage by the Park,4073298,Elyssa,,High Park-Swansea,43.64422,-79.47561,Entire home/apt,119,1,137,2019-07-21,2.68,1,177\
+842016,"Beautiful, Bright, Fully Furnished ",1930866,Drea,,Casa Loma,43.68536,-79.40745,Shared room,67,7,0,,,1,0\
+843521,Forest Hill Village Condo,4403844,Alana,,Forest Hill South,43.68911,-79.41412,Entire home/apt,134,2,108,2019-01-12,1.49,1,0\
+849500,Central Downtown room with views,4435131,Olivia,,Moss Park,43.65243,-79.36779,Private room,80,6,128,2019-07-17,1.63,1,317\
+850109,2rm suite (Br+Liv) Fairview Mall 15min to subway H,65479,Irene,,Pleasant View,43.78025,-79.32878,Private room,33,4,8,2018-10-10,0.12,10,356\
+850246,Comfy bright room in Toronto @ Don Mills subway Y,65479,Irene,,Pleasant View,43.7797,-79.32882,Private room,24,7,5,2017-05-17,0.07,10,0\
+852013,Modern Large 2BR Condo near Lake,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.63711,-79.39728,Entire home/apt,189,28,3,2019-01-07,0.04,74,35\
+855991,HOTEL ALTERNATIVE accommodation,4477219,Vas,,Church-Yonge Corridor,43.65301,-79.37899,Entire home/apt,161,1,7,2019-07-21,0.12,4,242\
+863183,ADORABLE CONDO - Close to the Lake!,4526170,Tianna,,Mimico (includes Humber Bay Shores),43.62393,-79.48803,Entire home/apt,89,5,6,2018-05-24,0.11,1,128\
+864006,Large 2BR -Charming Arts Apartment,3491443,Lauren,,Little Portugal,43.65188,-79.4324,Entire home/apt,100,2,116,2019-07-15,1.50,2,57\
+864104,Chic Downtown Toronto Apartment,4451791,Kojenwa,,Palmerston-Little Italy,43.65806,-79.42713,Private room,102,7,11,2019-06-30,0.15,3,331\
+864193,Big Room with King Bed and mattres ,4534248,Nida,,Newtonbrook West,43.78345,-79.44525,Private room,117,1,0,,,1,359\
+872128,LUXURY2Bedrm/2Bath/2Level/1Prk-Loft,4599751,Mia,,Niagara,43.6381,-79.41828,Entire home/apt,149,365,180,2016-07-16,2.32,2,0\
+875224,Cottage in the city- great location,4360516,Sheree,,Wychwood,43.68016,-79.42653,Entire home/apt,162,3,68,2019-08-05,0.88,1,0\
+880158,3 bedroom house in Toronto Beach,4575743,Anne,,Woodbine Corridor,43.66838,-79.31301,Entire home/apt,160,2,1,2016-07-25,0.03,1,0\
+883109,Your home in the heart of Toronto,4517569,Laurie And Martin,,Playter Estates-Danforth,43.68241,-79.3525,Entire home/apt,299,3,6,2017-09-03,0.08,1,0\
+890149,Perfectly located city home,2377994,Leah + Kanishka,,Dovercourt-Wallace Emerson-Junction,43.66342,-79.42836,Entire home/apt,200,5,10,2018-08-04,0.13,1,0\
+892352,Panoramic Views From a Vibrant Loft in Downtown,4448135,Matthew,,Kensington-Chinatown,43.65043,-79.39693,Entire home/apt,297,2,209,2019-08-05,2.91,1,131\
+898870,Artists' Home in heart of The Annex,4795186,Esther,,Annex,43.67223,-79.41294,Entire home/apt,346,2,82,2016-11-13,1.04,1,220\
+908807,Great Danforth apt - parking & view,4871479,Jodi,,Playter Estates-Danforth,43.67773,-79.36127,Entire home/apt,176,1,66,2019-06-24,0.84,1,270\
+918623,50 Things to See'n Do in 5 to15 min,4933919,Alina,,Blake-Jones,43.67514,-79.34263,Private room,41,3,66,2019-02-16,0.86,2,292\
+921746,West Downtown Toronto Cozy Home,2518768,Sari,,South Parkdale,43.63807,-79.44431,Private room,50,5,19,2018-07-24,0.24,2,317\
+923427,Big Room in a Great Neighbourhood,4966594,Mark,,Palmerston-Little Italy,43.66027,-79.40998,Private room,65,17,22,2018-04-02,0.28,2,21\
+925491,Suite Toronto Luxury Downtown Condo,4232814,Oscar,,Waterfront Communities-The Island,43.64352,-79.38145,Entire home/apt,149,1,607,2019-07-25,7.70,3,258\
+927129,Clean Modern Walkable-1BR Riverdale,4988876,Britta,,Blake-Jones,43.67058,-79.34093,Entire home/apt,90,3,38,2019-07-28,0.49,1,31\
+929686,Basement Apartment Downtown Toronto,2073941,Leo,,Blake-Jones,43.67302,-79.34111,Entire home/apt,89,6,40,2019-07-31,0.51,1,249\
+934523,"
+\f1 \'a1\'ef
+\f0  Amazing Downtown Suite next to Union, CN Tower 
+\f1 \'a1\'ef
+\f0 ",187320,Downtown Suite Living,,Waterfront Communities-The Island,43.64353,-79.38231,Entire home/apt,130,29,11,2019-07-16,0.25,11,172\
+940553,Casa Loma Area+Amazing Deck+Free Parking,1631066,Susanne,,Casa Loma,43.6779,-79.41008,Entire home/apt,184,4,29,2017-09-12,0.38,2,0\
+941071,Beautiful and Spacious Danforth Village Home,5086802,Kathleen,,Greenwood-Coxwell,43.6828,-79.32503,Entire home/apt,269,5,7,2019-08-03,0.10,1,30\
+950053,PAN AM PENTHOUSE WITH SKYLINE VIEWS,5153529,Adrian,,Regent Park,43.65747,-79.35645,Entire home/apt,161,183,10,2016-03-02,0.14,2,161\
+954475,1 BR-Close to Yonge & Eglinton 101,1854872,Raja,,Flemingdon Park,43.72107,-79.33604,Private room,40,2,27,2019-08-05,0.34,2,176\
+954935,Furnished 1 Bedroom Appartment,5186386,Kc,,South Riverdale,43.66491,-79.3355,Entire home/apt,88,30,22,2019-06-14,0.29,1,294\
+955073,YONGE - DUNDAS Fully Furnished,4477219,Vas,,Church-Yonge Corridor,43.65435,-79.37952,Entire home/apt,170,1,9,2019-06-15,0.43,4,241\
+955446,Downtown Toronto Furnished Wifi/Prk,3272927,Sam,,Waterfront Communities-The Island,43.64585,-79.39164,Entire home/apt,178,4,56,2019-07-03,0.74,2,59\
+956250,Lovely fully detached private house,5066966,Amanda,,Dufferin Grove,43.65356,-79.43441,Entire home/apt,379,3,4,2018-03-16,0.06,1,220\
+960627,3-bed private room @ King St. West/Spadina,2929374,Brahm,,Waterfront Communities-The Island,43.64651,-79.39433,Private room,65,1,35,2019-06-07,0.45,4,0\
+961974,Chic! in the Entertainment District,1805882,Elisabeth,,Waterfront Communities-The Island,43.64465,-79.3898,Entire home/apt,295,21,7,2019-01-06,0.12,4,310\
+977495,Toronto East End Apart. in Greek Town - Cosy Nest,5348675,Elizabeth,,Playter Estates-Danforth,43.67985,-79.36058,Entire home/apt,84,14,8,2018-08-04,0.11,1,316\
+985003,Prime Leslieville 1 Bdrm in house,2396097,Jeff (Jean-Francois),,South Riverdale,43.66699,-79.33757,Entire home/apt,72,7,67,2019-07-20,0.90,1,281\
+985072,Recently Renovated Studio Apartment,1019538,Stefan,,Little Portugal,43.64587,-79.43386,Entire home/apt,80,1,142,2019-05-03,1.84,2,293\
+985498,1+ Den - Entertainment District,5407081,Wayne,,Waterfront Communities-The Island,43.64354,-79.39046,Entire home/apt,97,2,189,2019-08-07,2.45,3,89\
+985648,Private bedroom in Brockton Village.,5242437,Kristin,,Dufferin Grove,43.6513,-79.43749,Private room,100,1,1,2013-09-05,0.01,1,365\
+987647,BRIGHT STYLISH 1 BDRM BALCONY EXCELLENT LOCATION!,3258547,Dannah,,Rosedale-Moore Park,43.68509,-79.38388,Entire home/apt,134,3,15,2017-07-19,0.20,1,0\
+990322,"Upscale, fantastic private gem",377962,Coreen,,Humewood-Cedarvale,43.68389,-79.42578,Entire home/apt,98,120,23,2019-01-25,0.37,2,281\
+992783,Luxury 1+1 BDR - ICON 1,1718194,Shaz And Kanwal,,Waterfront Communities-The Island,43.6453,-79.39092,Entire home/apt,159,4,36,2019-07-10,0.47,31,67\
+996139,Luxury Waterfront Studio Condo (Long-Term Rental),5472668,Lily,,Mimico (includes Humber Bay Shores),43.62641,-79.47662,Entire home/apt,200,25,15,2018-03-26,0.20,1,73\
+1001438,Private bedroom Queen W/Toronto Western Hospital,3131000,Janet,,Trinity-Bellwoods,43.64919,-79.40623,Private room,60,3,123,2019-07-31,1.63,1,100\
+1003798,Bright & Spacious Private Room,5520616,Carolina & Martha,,Banbury-Don Mills,43.7264,-79.3268,Private room,54,7,7,2019-06-07,0.38,1,244\
+1009656,Bloorcourt Village Apt. longer-term accommodations,5554523,Holly & Chad,,Dovercourt-Wallace Emerson-Junction,43.66723,-79.43208,Entire home/apt,125,28,171,2019-04-13,2.24,1,237\
+1012527,Scandinavian Cottage in the City,5518435,Darya,,Niagara,43.64601,-79.40979,Entire home/apt,531,3,3,2018-07-02,0.09,1,364\
+1015594,Bachelor Apartment in the Annex ,4202607,Wali,,Annex,43.66951,-79.41674,Entire home/apt,61,3,25,2019-05-20,0.32,1,0\
+1016125,
+\f2 \uc0\u10058 
+\f0  Awesome Room in Vibrant Area 
+\f2 \uc0\u10058 
+\f0 ,5591756,Jaclyn,,Trinity-Bellwoods,43.65352,-79.41543,Private room,76,2,81,2019-07-29,1.08,1,46\
+1019166,Furnished 1+GuestRoom unit in Downtown,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.642,-79.39623,Entire home/apt,189,28,10,2019-05-25,0.13,74,118\
+1019311,Fashionable! Yonge & Bloor Condo,5611735,Tina,,Church-Yonge Corridor,43.66788,-79.38559,Entire home/apt,141,180,0,,,1,365\
+1022764,Beautiful Davisville Toronto Home,5630548,Daniel,,Mount Pleasant East,43.70676,-79.3819,Entire home/apt,431,7,17,2019-07-26,0.23,1,354\
+1026288,Cottage feel in the city ! Upper Beaches Toronto.,5650274,Eileen,,East End-Danforth,43.68263,-79.29767,Entire home/apt,105,7,3,2017-08-30,0.13,1,0\
+1026693,Modern 1 Bedroom Condo + Park Views,1919294,Toronto Suite Rentals,,Niagara,43.638,-79.41735,Entire home/apt,149,5,9,2017-11-09,0.14,74,117\
+1030061,Modern 1 Bedroom Condo in Entertainment District,1984757,Michelle,,Waterfront Communities-The Island,43.64441,-79.39311,Entire home/apt,119,90,20,2018-09-02,0.55,1,246\
+1033151,The Great Gerrard - Paris Suite,377846,Nick & Nena,,East End-Danforth,43.68142,-79.30519,Entire home/apt,65,3,31,2019-07-04,0.41,10,323\
+1033162,DOWNTOWN TORONTO LUXURY PENTHOUSE CORPORATE SUITE,2175675,Frank,,Waterfront Communities-The Island,43.64374,-79.37916,Entire home/apt,249,1,6,2018-07-27,0.10,4,0\
+1036076,"Luxury Apt, Garden,small Dog welcome, Ev Charger",4468895,Melanie,,Willowdale East,43.76671,-79.40468,Entire home/apt,88,28,19,2019-07-29,0.32,1,247\
+1037034,Hip 3bdrm house with yard+garage,5709010,Jode,,Dovercourt-Wallace Emerson-Junction,43.66542,-79.42109,Entire home/apt,249,3,55,2019-07-30,0.74,1,85\
+1038085,Private room & BR in centralToronto,5713708,Yvette,,Humewood-Cedarvale,43.68447,-79.4232,Private room,70,1,139,2019-08-01,2.00,1,57\
+1043324,Luxury1+1 BDR Fully Furnished-Dwntown-Cn Tower,1718194,Shaz And Kanwal,,Waterfront Communities-The Island,43.64422,-79.3897,Entire home/apt,141,7,67,2019-07-23,0.87,31,76\
+1053817,Divine Downtown Centre with a VIEW,113345,Adela,,Waterfront Communities-The Island,43.64807,-79.37417,Entire home/apt,200,3,77,2019-07-24,1.02,7,356\
+1053838,A Beautiful Private Guest Room Downtown Toronto,2741400,Rk,,Palmerston-Little Italy,43.65521,-79.41654,Private room,45,1,147,2019-08-06,1.96,5,251\
+1057144,Beautiful Toronto Home opp Park,265033,Vivienne And Michael,,Dufferin Grove,43.65803,-79.43175,Entire home/apt,135,5,6,2016-10-28,0.10,1,312\
+1058442,2 Bedroom Penthouse Downtown,1805882,Elisabeth,,Church-Yonge Corridor,43.65234,-79.37901,Entire home/apt,300,7,2,2018-07-31,0.03,4,312\
+1060025,Spacious Lot,1118847,Tm,,Willowdale West,43.7723,-79.41779,Entire home/apt,41,1,0,,,2,0\
+1061160,Little Italy 1-bedroom with back patio,3018516,Ruth,,Palmerston-Little Italy,43.65785,-79.42024,Entire home/apt,120,2,0,,,1,0\
+1062690,Cozy Toronto Apartment - Davenport Area,4806305,Yvette,,Dovercourt-Wallace Emerson-Junction,43.6723,-79.44161,Entire home/apt,85,30,24,2018-09-20,0.35,1,124\
+1066060,Entire home in Toronto,1618054,Nick,,Woodbine Corridor,43.668,-79.31431,Entire home/apt,175,14,0,,,1,313\
+1066205,Downtown East One Bdrm and Spacious Bath,4010527,Diane,,Moss Park,43.65543,-79.37106,Entire home/apt,190,28,19,2019-07-13,0.54,5,180\
+1066718,PRIVATE: Bath/Garden&View/Parking/Quiet,5867364,Emil,,Niagara,43.64248,-79.4053,Entire home/apt,85,2,430,2019-07-28,5.64,1,227\
+1080121,Downtown Suite with the Best Views in the City,672978,Katy,,Waterfront Communities-The Island,43.64156,-79.38024,Entire home/apt,184,2,480,2019-08-05,6.52,2,324\
+1090758,Furnished JR Luxury 2 Bedroom Condo,1919294,Toronto Suite Rentals,,Bayview Village,43.76814,-79.37983,Entire home/apt,149,28,4,2018-03-29,0.09,74,7\
+1092179,Luxury Condo Studio Yonge&Sheppard,5986152,Seung-Rak,,Willowdale East,43.76118,-79.40863,Entire home/apt,100,1,0,,,1,0\
+1092407,Great Gerrard - Mona Lisa Suite,377846,Nick & Nena,,East End-Danforth,43.68157,-79.30515,Entire home/apt,76,4,29,2019-07-16,0.39,10,327\
+1094362,Charming 1 bedroom  w/ Jacuzzi,4315269,Lalo,,Oakwood Village,43.68305,-79.43522,Entire home/apt,80,14,117,2018-08-31,1.95,1,157\
+1100022,"Charming, Central One-Bedroom Flat",2372549,Talia,,Kensington-Chinatown,43.65634,-79.40367,Entire home/apt,80,2,48,2019-08-03,0.64,1,2\
+1100282,your friendly neighbourhood stay!,2367548,Sun,,Dovercourt-Wallace Emerson-Junction,43.66419,-79.42354,Entire home/apt,89,2,190,2019-08-01,2.56,1,33\
+1101055,Central  Sunny Room with a Sunset View,6048680,Cynthia,,Little Portugal,43.65091,-79.43511,Private room,76,2,34,2019-06-25,0.45,7,352\
+1110760,The Great Gerrard - New York Suite,377846,Nick & Nena,,East End-Danforth,43.68226,-79.30685,Entire home/apt,69,4,23,2019-07-07,0.31,10,337\
+1115379,Central Sunny Apartment with a Sunset View,6048680,Cynthia,,Little Portugal,43.65066,-79.43346,Entire home/apt,180,4,19,2017-12-03,0.25,7,255\
+1124771,Central Apt in Little Italy,6169927,Erin,,Palmerston-Little Italy,43.65801,-79.41931,Entire home/apt,90,28,161,2019-07-24,2.12,1,155\
+1134877,"Rose Garden B&B, Toronto",6225610,Doug,,Annex,43.67227,-79.4145,Private room,141,1,6,2016-09-05,0.08,2,266\
+1142246,Furnished condo downtown Toronto,6264339,Simon,,Niagara,43.63662,-79.40539,Entire home/apt,101,3,2,2019-05-10,0.06,2,365\
+1144283,Cozy Bedroom In house,6175788,Victoria,,Danforth East York,43.68961,-79.33502,Private room,50,2,22,2019-06-10,0.30,1,213\
+1145641,Annex/Little Italy Private Room,4966594,Mark,,Palmerston-Little Italy,43.66146,-79.40985,Private room,54,30,14,2019-06-29,0.19,2,217\
+1152834,Cosy Rooms Toronto Bluffs Private,6318013,Sean,,Scarborough Village,43.73293,-79.22099,Private room,78,3,0,,,1,362\
+1156413,Charming Victorian House: High Park,1590126,Melissa  Slatkoff,,Roncesvalles,43.64367,-79.44319,Entire home/apt,245,2,27,2018-07-11,0.36,2,300\
+1162480,Chic Downtown East Condo Loft +++,6255603,Fojan,,Moss Park,43.65724,-79.35642,Entire home/apt,142,92,53,2019-04-30,0.91,1,342\
+1162890,Downtown West~Elegant Private Suite,6369663,Tracy & Kate,,Dovercourt-Wallace Emerson-Junction,43.67153,-79.43931,Entire home/apt,76,2,266,2019-07-28,3.53,1,326\
+1163516,A Woman's Guest Room in The Annex 1,5175157,Anne,,Annex,43.67347,-79.40323,Private room,72,28,3,2016-07-31,0.04,2,89\
+1163664,Danforth - 1 bedroom apartment,5942147,Becky,,North Riverdale,43.67635,-79.35515,Entire home/apt,100,2,4,2015-08-05,0.06,1,0\
+1163936,Private 2BR Apartment in Kensington,794394,Jesse,,Kensington-Chinatown,43.65355,-79.40211,Entire home/apt,250,20,2,2015-08-05,0.03,2,53\
+1165585,Toronto BEACHES Home- 2 Bedrooms ,1508497,Jason,,The Beaches,43.67329,-79.28268,Entire home/apt,228,14,34,2014-10-11,0.45,1,281\
+1170889,COOL SPOT TORONTO-GRT DEAL-HIP HOOD,6410636,Deb,,Palmerston-Little Italy,43.65728,-79.42626,Private room,98,3,13,2019-05-31,0.18,1,292\
+1171884,Toronto/Condo/Suite/Flat,6416279,Ricky,,Waterfront Communities-The Island,43.64143,-79.39638,Entire home/apt,160,2,206,2019-07-29,2.77,1,329\
+1173944,Large Open-Concept One-Bedroom Flat,1410677,Robert ('R.J.'),,Little Portugal,43.64866,-79.42446,Entire home/apt,120,5,24,2019-06-14,0.32,3,186\
+1174138,Open-Concept One-Bedroom Flat,1410677,Robert ('R.J.'),,Little Portugal,43.6489,-79.42545,Entire home/apt,100,5,23,2019-06-30,0.34,3,222\
+1174893,LUXURY CONDO NEXT TO KIPLING SUBWAY,173823,James,,Islington-City Centre West,43.63753,-79.53539,Private room,54,7,5,2017-04-30,0.08,1,189\
+1179469,Oasis in Heart of Kensington Market,569339,Cara,,Kensington-Chinatown,43.65425,-79.40399,Private room,196,1,67,2019-07-27,0.91,3,365\
+1179509,Bright + New Kensington Market Room,569339,Cara,,Kensington-Chinatown,43.65408,-79.40216,Private room,96,1,92,2019-05-26,1.23,3,358\
+1186655,Bright Roomy Leslieville Townhouse,6488491,James,,South Riverdale,43.66434,-79.34093,Entire home/apt,180,3,15,2016-07-30,0.21,1,219\
+1194561,Cozy Private Room in Film Distric,6527771,Trixie,,South Riverdale,43.66305,-79.33233,Private room,46,3,22,2019-08-02,0.31,2,112\
+1194984,Spacious Room and Private Bath,6530148,Lin,,Roncesvalles,43.64546,-79.44156,Private room,54,2,24,2017-08-26,0.32,1,55\
+1196880,Happy Downtown Lower Penthouse,6539250,Jennifer,,Niagara,43.64211,-79.41044,Entire home/apt,96,7,11,2019-04-25,0.22,1,220\
+1202446,Peaceful room w FREE PARKING @ King/Spadina,2929374,Brahm,,Waterfront Communities-The Island,43.64631,-79.3944,Private room,65,1,50,2019-06-27,0.67,4,0\
+1202734,3 beds @ Kensington w. free parking,2929374,Brahm,,Kensington-Chinatown,43.65623,-79.3986,Entire home/apt,80,1,353,2019-07-25,4.70,4,95\
+1202775,Entertainment District with Terrace,4280045,Leslie,,Waterfront Communities-The Island,43.64437,-79.39206,Entire home/apt,150,7,12,2016-03-10,0.16,1,0\
+1206312,Private Retreat Toronto: Yonge & Lawrence,4009559,Jennifer,,Lawrence Park South,43.72247,-79.40353,Private room,70,3,29,2019-01-27,0.40,1,332\
+1208424,BEAUTIFUL 3 storey house July 15-Aug 15 ONLY,6599232,Karen,,Dovercourt-Wallace Emerson-Junction,43.67089,-79.42165,Entire home/apt,226,4,5,2019-07-31,0.08,2,312\
+1209935,Downtown Apt  Historic Cabbagetown,6607550,Tony,,Cabbagetown-South St.James Town,43.66514,-79.36964,Entire home/apt,185,3,17,2019-01-30,0.29,1,334\
+1214144,Large room & bath in penthouse,6627847,Sheldon,,Church-Yonge Corridor,43.66483,-79.38388,Private room,100,1,131,2019-07-14,1.81,1,262\
+1214297,Beautiful Lower level/ Basement Apt - 2 bedroom,3604846,Wies,,High Park-Swansea,43.65351,-79.45461,Entire home/apt,204,3,20,2019-06-20,0.29,5,314\
+1219457, Bachelor 231 Fort York BLVD 2410,6652723,Cathy,,Niagara,43.63673,-79.40567,Entire home/apt,109,7,2,2019-06-27,1.05,1,289\
+1226374,Harbourfront Condo - CN Tower View!,1415439,Tricia,,Waterfront Communities-The Island,43.64024,-79.39315,Entire home/apt,160,180,54,2018-08-25,0.72,3,312\
+1236305,Stylish DT Condo,6739062,Toronto Condo,,Rosedale-Moore Park,43.6715,-79.38517,Entire home/apt,170,1,3,2016-08-01,0.06,5,339\
+1242683,Beautiful spacious west end house,6773217,Alexa & Jonathan,,Little Portugal,43.64815,-79.43502,Entire home/apt,175,3,27,2019-07-20,0.54,1,41\
+1242848,2 Bed Queen West Gem with Parking,6007606,Jan,,South Parkdale,43.64051,-79.42426,Entire home/apt,150,3,76,2019-07-21,1.02,1,323\
+1243421,Large 2BR + 2Bath Corner Suite,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.64114,-79.39519,Entire home/apt,200,14,18,2019-07-16,0.24,74,142\
+1246937,3 bdrm house Wychwood Barns Aug 1st Aug 21th /19,6795122,Sarit,,Wychwood,43.68023,-79.42382,Entire home/apt,127,15,0,,,1,365\
+1254468,Oasis in Art Area of Queen West.,3406595,Inger,,Trinity-Bellwoods,43.64781,-79.41748,Entire home/apt,111,3,63,2019-07-08,1.29,3,289\
+1256687,Private Floor with Ensuite Washroom - Downtown!,6845247,Tamara & Jonathan,,Cabbagetown-South St.James Town,43.6649,-79.37369,Private room,58,7,109,2019-05-01,1.47,6,251\
+1260644,Large Victorian Home: Cabagetown,6865871,Matthew,,Moss Park,43.65733,-79.3701,Entire home/apt,299,1,0,,,1,0\
+1269925,$ Ultimate House -Location Location,6911938,Rooz,,Parkwoods-Donalda,43.75561,-79.33477,Entire home/apt,395,4,4,2016-08-27,0.06,1,364\
+1270535,GROOVY GREEKTOWN GREAT LOCATION!!!!,6744529,Laura,,Playter Estates-Danforth,43.67803,-79.36119,Entire home/apt,67,3,15,2019-07-22,0.32,3,218\
+1278395,Large 1BR + Guest Den & Parking,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.63809,-79.39833,Entire home/apt,180,28,8,2019-04-16,0.13,74,81\
+1278758,beautiful apartment downtown,6949358,Kat,,Church-Yonge Corridor,43.66677,-79.38155,Entire home/apt,100,3,38,2019-06-30,0.51,1,9\
+1278781,Trendy 2 Bdrm Yorkville Condo w/Pkg,5591734,Frank,,Bay Street Corridor,43.66818,-79.38866,Entire home/apt,270,5,64,2019-07-28,1.65,1,33\
+1279122,"Cottage in the City, Subway & Park",2960767,Chris,,Humewood-Cedarvale,43.69324,-79.43452,Entire home/apt,200,5,11,2017-06-14,0.15,1,8\
+1288937,Windermere by the Lake (Cozy Townhouse),7010032,Brooke,,High Park-Swansea,43.63639,-79.47013,Entire home/apt,175,1,11,2018-09-04,0.29,1,82\
+1289006,"Amazing Central Location, Lake View, Free Parking",7010570,Alan,,Waterfront Communities-The Island,43.63912,-79.38349,Entire home/apt,90,1,293,2019-07-25,3.97,4,28\
+1289926,Downtown Studio Getaway on Park,6293331,Dionne,,Dovercourt-Wallace Emerson-Junction,43.665,-79.42224,Entire home/apt,100,2,56,2019-06-29,1.55,1,124\
+1290415,"1 Bedroom Apartment, Queen West",6964666,Sam,,Roncesvalles,43.64314,-79.43236,Entire home/apt,60,1,0,,,1,0\
+1294243,Enjoy Toronto Junction.,1025890,Amir,,Junction Area,43.66711,-79.46453,Entire home/apt,73,365,5,2018-08-19,0.07,1,365\
+1297164,HOME is TORONTO,5244098,Pablo,,Yonge-St.Clair,43.68827,-79.39991,Private room,69,3,49,2019-08-01,0.68,1,221\
+1299374,Beaches Butterfly Garden Suite,7065012,Jude,,East End-Danforth,43.67828,-79.3096,Entire home/apt,90,7,58,2019-07-14,0.79,2,10\
+1301516,Luxury on Lake 2 Stories Penthouse,6169934,Fahad,,Niagara,43.63531,-79.40055,Entire home/apt,652,30,8,2014-07-02,0.11,2,365\
+1301718,Uber Upper Beach 3 Bedroom Suite,377846,Nick & Nena,,East End-Danforth,43.68345,-79.29434,Entire home/apt,119,3,15,2019-06-03,0.24,10,286\
+1313641,High Park Family Friendly Apartment,3372664,Nico,,High Park-Swansea,43.65098,-79.45784,Entire home/apt,75,300,83,2018-07-31,1.15,1,269\
+1317389,Spacious Family Home,7134591,Rebecca,,Dufferin Grove,43.65303,-79.43886,Entire home/apt,118,14,3,2016-08-29,0.05,1,1\
+1321398,Toronto Beach self contained 1 bdrm,7173548,Pasqua,,The Beaches,43.67287,-79.28535,Entire home/apt,107,4,86,2019-08-02,1.40,1,202\
+1325356,Comfy Private Room with 2 Beds (#1),7093939,Suzana,,Taylor-Massey,43.69982,-79.2946,Private room,53,1,130,2019-07-21,2.59,2,53\
+1331000,"1BR + garden, queen bed @ Don Mills Subway St Al1",65479,Irene,,Pleasant View,43.77893,-79.32872,Entire home/apt,42,7,4,2016-08-19,0.06,10,350\
+1331223,"Great 2BR+garden, Sheppard Ave, Subway Line Al2",65479,Irene,,Pleasant View,43.77994,-79.32829,Entire home/apt,60,5,5,2016-08-27,0.08,10,342\
+1331304,Need a place?,7221344,Roy,,Woodbine Corridor,43.67474,-79.31066,Private room,75,1,8,2016-09-24,0.11,1,0\
+1339203,Modern Trinity Bellwoods Home.,7261819,Alex,,Trinity-Bellwoods,43.64779,-79.4159,Entire home/apt,495,2,44,2019-08-04,0.61,1,354\
+1348067,The Great Gerrard - Toronto Suite,377846,Nick & Nena,,East End-Danforth,43.68287,-79.30538,Entire home/apt,68,4,10,2018-08-25,0.14,10,225\
+1348611,Serenity-Lower Floor of House in the Kingsway,1015926,Grant,,Stonegate-Queensway,43.64115,-79.50691,Private room,80,1,15,2019-01-05,0.29,3,303\
+1349839,Bright Kensington Market Apartment,569339,Cara,,Kensington-Chinatown,43.65555,-79.40058,Entire home/apt,500,2,22,2018-06-28,0.30,3,365\
+1352390,sunny single room,494460,Rachel,,Oakwood Village,43.69011,-79.43685,Private room,34,2,13,2017-07-02,0.18,3,189\
+1352743,Sunny & Charming 1 Bedroom Apt,7342693,Liz,,Dufferin Grove,43.65402,-79.44011,Entire home/apt,119,7,33,2018-11-24,0.45,1,216\
+1360718,Peaceful oasis in downtown Toronto,7056416,Glenn,,University,43.66089,-79.4067,Private room,67,2,112,2019-08-05,1.52,1,313\
+1363170,Guest Bedroom on Dragon Alley Lane,7399238,Cheryl,,Little Portugal,43.6515,-79.43332,Private room,46,3,174,2019-07-30,2.37,2,336\
+1365638,Luxury Condo@Lakeshore Blvd West,7412574,Abhishek,,Mimico (includes Humber Bay Shores),43.62209,-79.48805,Private room,56,1,31,2019-08-05,0.52,1,78\
+1367396,Exclusive TWO Rooms for family,3470868,Maxim,,Long Branch,43.59611,-79.52496,Private room,78,2,6,2018-08-06,0.09,3,330\
+1369606,"Top floor, quiet elegant Victorian",7425753,Martin,,Little Portugal,43.64722,-79.42677,Private room,71,2,145,2019-08-05,2.02,1,264\
+1369701,30 day minimum / 900.00/ foreign language student,7428349,Steve,,Corso Italia-Davenport,43.67617,-79.45351,Private room,31,30,20,2019-06-01,0.28,1,6\
+1378251,Downtown Shared Luxury Condo,7372029,Tyler,,Church-Yonge Corridor,43.67003,-79.38175,Private room,109,3,117,2019-08-04,1.60,1,63\
+1402261,2 Flr 2 BDRM in Greek Town - Taste of the Danforth,7569494,Jaime,,Danforth,43.68112,-79.33913,Entire home/apt,161,2,14,2019-08-05,0.23,1,300\
+1416753,Upper Bluffs 2 bdrm with parking,1108156,Karen,,Birchcliffe-Cliffside,43.70343,-79.26016,Entire home/apt,94,28,12,2019-02-28,0.17,2,252\
+1419648,"Airy, modern walkout loft/condo",7534746,Joshua,,North St.James Town,43.66728,-79.37534,Entire home/apt,150,5,28,2019-04-28,0.63,1,12\
+1420403,Room in downtown Toronto apartment,6741120,Ted,,Little Portugal,43.64749,-79.42517,Private room,55,4,10,2019-08-01,0.14,7,301\
+1422678,Terrific Suite On King St. East!,2065732,Nicole,,Waterfront Communities-The Island,43.65047,-79.36722,Entire home/apt,140,1,5,2014-07-01,0.07,1,279\
+1422877,Entire home -Sheppard and Yonge,7658503,Angela,,Willowdale East,43.757,-79.40654,Entire home/apt,101,2,12,2019-03-25,0.17,1,342\
+1422942,2-Storey Loft in Liberty Village (18 ft ceilings),1471640,Renato,,Niagara,43.6369,-79.42002,Entire home/apt,80,2,13,2016-11-13,0.18,1,220\
+1426591,Chic Condo in Trendy Queen West,7672988,Nadia,,Little Portugal,43.64996,-79.43733,Private room,85,1,25,2019-06-30,0.34,2,220\
+1431142,A Beautiful Downtown Toronto Furnished Home,1664538,John,,Moss Park,43.65945,-79.36854,Entire home/apt,100,30,0,,,3,229\
+1431361,original loft queen street west,1788334,Eileen,,Niagara,43.64508,-79.40617,Entire home/apt,200,7,3,2018-12-15,0.12,1,342\
+1433895,Gorgeous basement apartment in Downtown East,6066930,Wesley & Stefani,,Old East York,43.69551,-79.34352,Entire home/apt,89,7,4,2019-05-26,0.16,1,129\
+1455278,Junction ARTIST LOFT & green roof.,7804231,Jake,,Junction Area,43.66806,-79.47378,Entire home/apt,425,6,6,2017-08-05,0.09,1,83\
+1456369,FURNISHED BASEMENT APARTMENT IN A RAISED BUNGALOW,6153361,Asoka,,Agincourt South-Malvern West,43.79047,-79.27117,Entire home/apt,54,2,19,2018-10-31,0.88,1,99\
+1456384,"XL condo, Projector, Massage chair, Yonge&Bloor",7810637,Ilia,,Church-Yonge Corridor,43.66968,-79.38416,Entire home/apt,499,5,46,2019-08-05,0.63,1,365\
+1459100,Beautiful Corner Loft in King West,3150111,Tran,,Waterfront Communities-The Island,43.6477,-79.39747,Entire home/apt,188,1,137,2019-08-04,2.72,6,337\
+1472489,Modern 1 bedroom Yonge/bloor Toronto w pkg,2180237,Alexander,,Church-Yonge Corridor,43.67015,-79.38385,Entire home/apt,184,5,174,2019-03-06,2.39,4,354\
+1477940,Contemporary Urban Hideaway in Trendy Junction Triangle,1200367,Grace,,Dovercourt-Wallace Emerson-Junction,43.66621,-79.45248,Entire home/apt,105,5,32,2019-05-31,0.46,4,296\
+1483630,Beautifully Restored Queen West Gem,3800844,Janine & John,,South Parkdale,43.64089,-79.43016,Entire home/apt,119,5,6,2018-08-13,0.09,1,297\
+1483919,City living for families,7860490,Justin,,Woodbine Corridor,43.67542,-79.31621,Entire home/apt,249,4,6,2019-03-14,0.25,1,230\
+1500138,Breezy Apartment in Hip Hood,1839486,Holly,,Trinity-Bellwoods,43.65371,-79.42043,Entire home/apt,106,2,10,2018-01-03,0.17,1,81\
+1501517,Location Location VIEW 2br+ slps 6.,8023067,Dan,,Waterfront Communities-The Island,43.64237,-79.37629,Entire home/apt,648,2,8,2016-05-05,0.11,1,364\
+1510402,Private Room in Downtown Toronto RM1,4297691,Graeme,,Dufferin Grove,43.65974,-79.43545,Private room,45,1,372,2019-08-05,5.11,3,320\
+1521082,Modern Apartment Near the Lake,3358187,Lisa,,Mimico (includes Humber Bay Shores),43.61364,-79.49155,Entire home/apt,60,5,40,2019-07-07,0.60,2,284\
+1523547,Right in the Heart of Downtown!,164481,S\'e9bastien,,Annex,43.6667,-79.40542,Entire home/apt,100,1,234,2019-07-04,3.24,6,18\
+1524783,Subletting Beautiful Home in TO,8135652,Sumi,,Corso Italia-Davenport,43.68194,-79.45018,Entire home/apt,71,1,1,2016-02-20,0.02,1,0\
+1525526,Elegant downtown Toronto condo with courtyard,4301689,Marian,,Cabbagetown-South St.James Town,43.66396,-79.35996,Entire home/apt,120,7,4,2019-07-18,0.06,1,341\
+1530809,Beautiful Large Apt. in Cabbagetown,3268493,Julie,,Cabbagetown-South St.James Town,43.66453,-79.36831,Entire home/apt,90,4,27,2019-07-27,0.38,1,6\
+1534574,Baby ready 2 Bd / 2 Bath apartment,3816235,Aaron,,Dovercourt-Wallace Emerson-Junction,43.65827,-79.44611,Entire home/apt,100,7,1,2014-08-01,0.02,1,232\
+1535534,Furnished Spacious & Bright one bedroom condo,8188893,Neda,,Bayview Village,43.76944,-79.36906,Entire home/apt,85,3,1,2018-02-17,0.06,1,251\
+1537331,Large Victorian in Parkdale/Roncesvalles,5130113,Julian,,Roncesvalles,43.64515,-79.43844,Entire home/apt,200,4,11,2018-12-30,0.15,1,8\
+1544597,Downtown Bright Room  with a View and Balcony,6048680,Cynthia,,Little Portugal,43.65146,-79.43342,Private room,84,4,4,2019-06-29,0.35,7,360\
+1544959,Brite Top Floor Garden View Big Bed+Coach Subway C,65479,Irene,,Pleasant View,43.77998,-79.32956,Private room,21,7,8,2019-03-28,0.19,10,342\
+1545099,NICE PRIVATE bsmt ROOM @ SHEPPARD SUBWAY LINE M,65479,Irene,,Pleasant View,43.77872,-79.32847,Private room,27,2,10,2019-08-01,0.19,10,230\
+1545555,Great superb top floor room@subway Toronto Ld,65479,Irene,,Pleasant View,43.78049,-79.32804,Private room,25,2,8,2018-08-25,0.13,10,365\
+1546244,"Superb Little Italy, Toronto",4991306,Julie,,Trinity-Bellwoods,43.65423,-79.41154,Private room,100,1,70,2019-08-05,2.98,1,316\
+1550882,Cozy apartment in upper mid-town,2788736,Alvaro,,St.Andrew-Windfields,43.75961,-79.3949,Entire home/apt,93,6,42,2019-07-21,0.58,1,280\
+1552251,"Private Bath, Large Room, Great Bed",8267190,Mable,,Annex,43.66903,-79.417,Private room,49,14,36,2019-06-29,0.51,2,297\
+1552348,Home Sweet Home: Junction Triangle,6960409,Annie&Ian,,Dovercourt-Wallace Emerson-Junction,43.6625,-79.45191,Entire home/apt,150,2,5,2015-10-12,0.10,1,220\
+1554581,House 2br/2b - walk to U of T and hospitals,8277300,Anne Marie,,University,43.6603,-79.40164,Entire home/apt,299,12,24,2019-07-30,0.33,2,152\
+1560504,A gorgeous house in Queen West!,3400584,Maria,,Trinity-Bellwoods,43.64854,-79.40799,Entire home/apt,399,4,22,2019-07-24,0.30,1,365\
+1560977,Water Park City Condo Suite,8306299,Zita,,Niagara,43.63521,-79.40613,Entire home/apt,126,1,378,2019-07-24,5.26,1,313\
+1562481,High-End Lakefront 2 BEDROOM + DEN,1816495,Katharine,,Waterfront Communities-The Island,43.6402,-79.38363,Entire home/apt,160,170,56,2017-07-23,0.82,3,365\
+1564089,Quiet Bright 2 Bedroom Downtown!!!!,8300483,Michael,,Little Portugal,43.65122,-79.42823,Entire home/apt,130,3,7,2013-12-05,0.10,1,128\
+1564999,Highly Reviewed Home!,8324988,Samantha,,South Riverdale,43.66069,-79.33684,Entire home/apt,249,7,27,2016-12-31,0.44,3,38\
+1570675,Modern 1 Br Suite Steps to Transit,8352000,Alex And Snezhana,,Oakridge,43.70072,-79.27318,Entire home/apt,89,2,124,2019-07-21,1.72,1,348\
+1571119,Private Guest Room & Balcony Downtown Toronto,2741400,Rk,,Palmerston-Little Italy,43.65627,-79.41314,Private room,50,1,190,2019-08-01,2.94,5,350\
+1578070,Unbeatable Downtown Location,5559775,Aleksandra,,Waterfront Communities-The Island,43.64619,-79.39283,Entire home/apt,166,4,16,2017-09-15,0.23,2,168\
+1584291,Cozy Room in Trinity Bellwoods,8440822,Helen,,Trinity-Bellwoods,43.64557,-79.41732,Private room,54,2,72,2019-06-30,1.21,1,325\
+1589014,Cosy Pad in heart of Little Italy,2144852,Angela,,Trinity-Bellwoods,43.65185,-79.41444,Entire home/apt,100,2,36,2019-08-04,3.04,1,4\
+1594005,Stylish Modern Condo w/Queen Bed | CN Tower views!,6397676,Rahim,,Waterfront Communities-The Island,43.64547,-79.39152,Entire home/apt,226,2,88,2019-07-28,1.23,1,16\
+1598460,Spacious Room in Charming Apartment,3877380,Mila And Ken,,Humewood-Cedarvale,43.68354,-79.41932,Private room,43,14,2,2013-12-14,0.03,1,0\
+1604069,"Away to Relax! Lake View, Private Bath, Parking",8546454,Lucille & Alan,,Birchcliffe-Cliffside,43.69229,-79.2599,Private room,85,1,304,2019-08-06,4.22,1,279\
+1606092,Cozy and private basement suite in a house,8556532,Sylvie,,Corso Italia-Davenport,43.67341,-79.44588,Entire home/apt,50,1,40,2019-07-16,0.61,1,291\
+1613565,"Private bath & bed, GREAT 'hood!",8589410,Janine,,Niagara,43.64178,-79.41359,Private room,82,2,219,2019-08-04,3.04,1,214\
+1617371,Luxury Suite with Incredible Views + Parking!,961410,Michael,,Niagara,43.64088,-79.41516,Entire home/apt,129,4,25,2019-06-28,0.65,2,46\
+1623915,Traveler's Room - Dragon Alley Lane,7399238,Cheryl,,Little Portugal,43.65202,-79.43409,Private room,45,3,159,2019-07-29,2.23,2,297\
+1623917,Fresh and comfortable,5440159,Barbara,,Casa Loma,43.67744,-79.40168,Private room,58,7,19,2019-07-03,0.48,4,240\
+1624022,Silver Room,5440159,Barbara,,Casa Loma,43.67866,-79.3997,Private room,58,7,20,2019-07-31,0.53,4,306\
+1625412,Modern Condo - Heart of Downtown - Walk to TIFF!,2783292,Euge,,Kensington-Chinatown,43.65489,-79.3906,Entire home/apt,110,85,34,2018-10-21,0.47,2,258\
+1629477,Bright Room in Great Downtown Home,847202,Megan,,Little Portugal,43.64861,-79.43773,Private room,90,2,53,2017-07-16,0.75,2,0\
+1629651,Yonge St Condo,3388399,Anna,,Church-Yonge Corridor,43.66403,-79.38324,Private room,125,3,12,2018-09-02,0.20,1,341\
+1631386,Private Room in Downtown Toronto RM3,4297691,Graeme,,Dovercourt-Wallace Emerson-Junction,43.66381,-79.4396,Private room,45,1,214,2019-08-05,2.98,3,349\
+1636762,Spacious 1BD in Leslieville,8692710,Robyn,,Blake-Jones,43.67321,-79.33529,Entire home/apt,80,28,1,2017-07-01,0.04,1,281\
+1638995,"Stylish, Sophisticated Apartment with Shaded Patio",8702985,Clarence,,Trinity-Bellwoods,43.65254,-79.41358,Entire home/apt,188,2,105,2019-02-04,2.73,10,311\
+1639953,Beautiful Private Double Guest Room Downtown B,2741400,Rk,,Palmerston-Little Italy,43.65652,-79.41792,Private room,44,1,130,2019-08-08,1.90,5,99\
+1641240,2 blocks away from Rogers Centre,133802,Maggy & Jamie,,Waterfront Communities-The Island,43.64538,-79.39391,Entire home/apt,200,5,10,2018-06-30,0.15,1,120\
+1643417,Roncesvalles/HighPark large sunny room - subway,1427329,Maria & Thomas,,High Park-Swansea,43.65143,-79.45531,Private room,55,3,18,2018-08-24,0.37,2,0\
+1645048,Gorgeous Downtown 2bdrm in Historic Cabbagetown,8729004,Jennifer,,Cabbagetown-South St.James Town,43.66582,-79.36926,Entire home/apt,180,2,4,2019-08-03,0.08,1,285\
+1646214,2 bdr + pull out couch + parking,8736297,Anju,,Niagara,43.64282,-79.40453,Entire home/apt,155,60,82,2016-09-26,1.61,1,282\
+1649059,Beautiful Furnished Downtown House,1664538,John,,Moss Park,43.65836,-79.36819,Entire home/apt,133,30,1,2014-06-28,0.02,3,342\
+1651958,CoZy Bachelor  Downtown Toronto,6044009,Fabricio,,Church-Yonge Corridor,43.66814,-79.37938,Entire home/apt,82,2,89,2019-08-06,1.41,1,279\
+1655297,Modern 1BR + Private Office,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.6428,-79.39245,Entire home/apt,160,28,2,2017-01-02,0.06,74,74\
+1655742,1 Bedroom Suite w/ Amazing Location,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.64405,-79.38125,Entire home/apt,160,5,12,2019-07-12,0.20,74,15\
+1656292,Magnolia Suite/By The Park B&B/2 bedroom apartment,8780810,Margo,,High Park-Swansea,43.65473,-79.45893,Entire home/apt,204,1,2,2019-07-23,0.03,3,187\
+1659168,Gorgeous 2BR in Convenient Location,1919294,Toronto Suite Rentals,,Newtonbrook West,43.7793,-79.41786,Entire home/apt,199,5,18,2018-10-07,0.27,74,33\
+1661729,2-Story Ceiling w/ 1BR + Guest Den,1919294,Toronto Suite Rentals,,Niagara,43.63875,-79.41411,Entire home/apt,169,28,12,2018-10-07,0.17,74,34\
+1673003,lovely 2 +1 bdrm home +  garage in  midtown,8856331,Veronique,,Lawrence Park North,43.73175,-79.40442,Entire home/apt,198,7,19,2019-07-21,0.27,1,258\
+1673495,Guest room & backyard in Parkdale,8858716,Victoria,,South Parkdale,43.64027,-79.43563,Private room,75,2,104,2019-07-21,1.53,2,0\
+1678802,Beautiful Apt in Queen West,7746554,Anar,,Trinity-Bellwoods,43.64721,-79.41285,Entire home/apt,76,30,12,2018-02-24,0.35,1,365\
+1687406,Gorgeous 1bdrm in trendy King West,2708114,Evan,,Waterfront Communities-The Island,43.64356,-79.40076,Entire home/apt,200,5,0,,,1,99\
+1699994,Boutique Family Home Downtown w/Tesla Charge,8976677,John,,Niagara,43.64392,-79.4083,Entire home/apt,448,3,56,2019-07-22,0.79,3,285\
+1704151,"Amazing views, prime location & beautiful decor",1716838,Nina,,Waterfront Communities-The Island,43.64488,-79.38958,Entire home/apt,275,7,0,,,1,365\
+1711196,Lovely Private Room in Toronto Home,3431521,Sandra,,Roncesvalles,43.64152,-79.43923,Private room,45,2,112,2019-07-31,1.70,2,122\
+1718363,Gorgeous studio in the heart of T.O,8478072,Lotoya,,Waterfront Communities-The Island,43.65013,-79.38972,Entire home/apt,75,2,40,2017-01-03,0.61,1,0\
+1722517,The best spot for a night out!,8859994,Em,,Niagara,43.6439,-79.41521,Private room,72,1,168,2019-05-24,2.36,2,359\
+1727775,View of Lake Ontario close to King West + Parking,9104636,Cory,,Niagara,43.6364,-79.40525,Entire home/apt,176,1,23,2018-11-25,0.73,1,0\
+1732392,2 bedrooms basement apartment,9127235,Mrs Raphael,,Bendale,43.75784,-79.26174,Entire home/apt,69,3,82,2019-07-02,1.20,1,284\
+1736407,Leaside Luxury Penthouse with Amazing Views,9144639,Ankita,,Thorncliffe Park,43.71471,-79.35623,Private room,80,1,27,2019-07-31,1.22,1,297\
+1742297,"Big room, spacious apartment in trendy West End TO",8533890,Alex,,Palmerston-Little Italy,43.65472,-79.42326,Private room,76,2,17,2019-06-09,1.50,2,29\
+1747092,BEAUTIFUL PRIVATE DOUBLE GUEST ROOM A,2741400,Rk,,Palmerston-Little Italy,43.65576,-79.41425,Private room,45,1,143,2019-08-02,2.23,5,166\
+1747337,Bright 3 Bedroom Home,9173353,Asli And Selcuk,,Weston-Pellam Park,43.67084,-79.4576,Entire home/apt,128,4,2,2019-08-05,0.38,1,0\
+1750120,"Sunny house, friendly neighbourhood",4162773,Heather,,Dovercourt-Wallace Emerson-Junction,43.66463,-79.43215,Entire home/apt,100,30,0,,,1,11\
+1750269,Elegant Cottage in Downtown Toronto,9208069,Richard,,Cabbagetown-South St.James Town,43.66262,-79.36481,Entire home/apt,250,7,8,2016-08-14,0.13,1,0\
+1754254,Gorgeous Bedroom in Downtown Home,9226712,Greg,,South Parkdale,43.63542,-79.4268,Private room,71,1,13,2019-01-01,0.82,6,0\
+1756093,Luxury 1B + Guest Den on Sheppard,1919294,Toronto Suite Rentals,,Bayview Village,43.76865,-79.37934,Entire home/apt,189,14,5,2017-04-26,0.08,74,3\
+1762021,Great House on Palmerston Blvd in downtown Toronto,44259,Sue,,Palmerston-Little Italy,43.66107,-79.41275,Entire home/apt,600,3,70,2019-08-04,1.17,1,32\
+1780979,"DowntownToronto, UofT-St George Campus, Entire apt",4917449,Bedis,,Annex,43.66981,-79.40158,Entire home/apt,64,20,0,,,1,0\
+1781231,Quiet Room Near Transit,9349836,Sarah,,Dufferin Grove,43.65614,-79.44,Private room,40,2,226,2019-06-16,3.59,3,295\
+1782926,Beaches Home 7 Minutes to Studios,2129309,Carolyn,,Woodbine Corridor,43.67233,-79.31757,Entire home/apt,180,29,15,2017-06-16,0.32,2,37\
+1785285,"Luxurious bath / Cosy, quiet room",8267190,Mable,,Annex,43.67022,-79.41538,Private room,49,14,37,2018-09-29,0.53,2,135\
+1792909,"Brand New condo, 2 bedroom.",1794420,Joe,,Waterfront Communities-The Island,43.64407,-79.39248,Entire home/apt,195,20,49,2019-05-15,0.71,1,255\
+1801668,Great House Downtown,847202,Megan,,Little Portugal,43.64907,-79.43909,Entire home/apt,285,3,28,2018-08-18,0.45,2,3\
+1801738,"Modern 2 bedroom Townhouse, Huge Terrace King West",3244908,Marlena,,Waterfront Communities-The Island,43.6414,-79.39867,Entire home/apt,230,2,1,2019-08-05,1,2,147\
+1803281,NEWLY RENOVATED MODERN 1 BEDROOM WALKOUT,9454044,Stephanie,,Blake-Jones,43.67188,-79.34044,Entire home/apt,80,3,137,2019-07-22,3.82,1,11\
+1810146,Cool and convenient Little Portugal,9484002,Chris,,Little Portugal,43.65147,-79.43551,Entire home/apt,125,3,99,2019-08-06,1.42,1,200\
+1813948,Furnished Bachelor in Downtown,1919294,Toronto Suite Rentals,,Waterfront Communities-The Island,43.64211,-79.39208,Entire home/apt,149,15,18,2019-05-22,0.26,74,46\
+1814992,Master Bedroom in Midtown Toronto,9506792,Lindi,,Willowdale East,43.77513,-79.41257,Private room,76,2,62,2019-08-02,1.04,1,325\
+1820689,Spectacular Yorkville Condo *NEW*,9532580,Daniel,,Annex,43.67115,-79.39142,Entire home/apt,149,60,61,2019-05-17,0.93,1,109\
+1822789,LUXURY 1+Den CELEB suite @TIFF,2844161,Suzanne,,Waterfront Communities-The Island,43.64101,-79.3861,Entire home/apt,200,61,19,2018-05-18,0.27,1,0\
+1824727,Fully Furnished Condo (Queen Bed),9550062,Ryansuites,,Waterfront Communities-The Island,43.64365,-79.38025,Entire home/apt,165,1,63,2019-07-28,0.91,8,362\
+1826053,Central Cozy Room in Victorian House,8995143,Cyn M,,Dufferin Grove,43.6507,-79.43982,Private room,54,2,19,2019-06-30,0.31,6,343\
+1829418,Central Bright White Room in LIttle Portugal,8995143,Cyn M,,Dufferin Grove,43.65038,-79.43964,Private room,62,2,15,2019-07-03,0.24,6,363\
+1830310,cozy 1B w/ amazing view,6808974,Malaika,,Broadview North,43.69093,-79.35287,Entire home/apt,64,1,4,2018-05-20,0.06,1,0\
+1830535,"Modern, bright 1 bdrm on King W near Bellwoods!",8517502,Robyn,,Niagara,43.6404,-79.41526,Entire home/apt,110,150,0,,,1,362\
+1836298,Comfy Private full Suite in our City Oasis!,1125010,Laura Jane & Nick,,University,43.66074,-79.4074,Private room,76,1,78,2019-08-02,1.24,1,282\
+1843242,Cozy Little Portugal apartment in Victorian House,8995143,Cyn M,,Dufferin Grove,43.65014,-79.43839,Entire home/apt,161,5,40,2018-06-24,0.64,6,365\
+1844121,Amazing Bed & Breakfast Downtown,8952336,Caroline,,Bay Street Corridor,43.66838,-79.38832,Private room,141,1,133,2019-07-19,2.04,1,232\
+1851448,3 bdrm 2-Floor HOUSE @ CN Tower w. FREE PARKING !,9668978,Benny,,Waterfront Communities-The Island,43.64518,-79.39353,Entire home/apt,220,1,121,2019-07-25,1.72,1,107\
+1856109,Beautiful and Cozy Home for Rental,1989442,Indrit,,Englemount-Lawrence,43.71791,-79.43725,Entire home/apt,85,1,368,2019-06-30,5.30,2,220\
+1859942,Swansea | Bloor West Village Main Level,8280084,Pro,,High Park-Swansea,43.63896,-79.47681,Entire home/apt,150,3,46,2019-07-01,0.72,4,35\
+1862196,Quiet Room in High Park/Junction,9713198,Andrea,,Junction Area,43.66462,-79.46289,Private room,40,1,1,2016-05-03,0.03,1,0\
+1864021,Spacious 3B+2B in Little Italy,6778835,Karen,,Dufferin Grove,43.6562,-79.43043,Entire home/apt,300,4,8,2018-03-30,0.13,1,27\
+1869711,
+\f3 \uc0\u11088 \u65039 
+\f0 Stylish Apartment on East side Downtown Toronto,314617,Ilya,,Moss Park,43.65617,-79.37083,Entire home/apt,118,2,154,2019-06-27,2.25,7,327\
+1876893,Summer sizzle en mi casa! Book now!,9775519,Jane Anne,,Mimico (includes Humber Bay Shores),43.62421,-79.4924,Private room,65,3,40,2019-08-03,0.89,1,79\
+1879787,Great downtown Location Next to Subway + Parking,9787143,Dan,,Church-Yonge Corridor,43.66996,-79.38542,Entire home/apt,160,4,17,2018-09-28,0.25,1,0\
+1881845,Family house-great location/free reserved parking!,6411777,Tania,,Dufferin Grove,43.65835,-79.43175,Entire home/apt,350,2,11,2018-08-06,0.18,1,6\
+1885950,Beautiful Corner Unit Downtown,9811752,Tom,,Waterfront Communities-The Island,43.64297,-79.3881,Entire home/apt,428,3,56,2018-05-01,0.81,1,363\
+1886850,Private Roncesvalles coach house,9612740,Donna,,Roncesvalles,43.64044,-79.44661,Entire home/apt,100,2,126,2019-08-07,1.83,1,158\
+1891100,LRG Family Friendly Annex/Kensington Market House!,9228931,Rebecca,,University,43.66058,-79.40398,Entire home/apt,176,2,21,2017-08-25,0.43,1,0\
+1891675,Large Modern 1 Bedroom + Guest Room,1919294,Toronto Suite Rentals,,Niagara,43.63877,-79.41715,Entire home/apt,169,28,5,2017-07-30,0.08,74,65\
+1900100,Waterfront View City Condo,1415439,Tricia,,Waterfront Communities-The Island,43.64183,-79.37494,Entire home/apt,180,180,50,2017-09-12,0.80,3,0\
+1901371,Modern loft in St. Lawrence Market,9872693,Krikor,,Moss Park,43.65252,-79.36971,Entire home/apt,86,6,2,2014-01-12,0.03,1,0\
+1902398,TRENDY 1BR LOFT KING ST W TORONTO,9877067,Scott,,Waterfront Communities-The Island,43.64094,-79.40097,Entire home/apt,249,3,198,2019-08-01,2.84,1,351\
+1902992,RENOVATED MAY '18 Private Apartment Great Location,6034608,Aj,,Waterfront Communities-The Island,43.64593,-79.3987,Entire home/apt,166,20,10,2018-08-30,0.15,1,364\
+1912628,Downtown Waterfront View Toronto,9922227,Santiago,,Waterfront Communities-The Island,43.64034,-79.38256,Entire home/apt,120,7,13,2019-06-01,0.19,1,0\
+1912746,New Modern Bachelor downtown Toronto (Annex #5),9923100,Ed,,Annex,43.66749,-79.41026,Entire home/apt,76,4,65,2018-10-06,0.93,7,315\
+1915724,"Great house! Dec.12-Jan.11., 2017",9935509,Len,,Little Portugal,43.64712,-79.43432,Entire home/apt,88,4,4,2018-01-11,0.06,1,0\
+1920804,FURNISHED MASTER BEDROOM/PRIVATE WC,9956811,Erica,,Mount Dennis,43.69125,-79.49813,Private room,146,1,2,2017-08-13,0.04,11,0\
+1925448,Private room in Downtown Toronto,9974366,Sarmad,,Church-Yonge Corridor,43.65043,-79.37441,Private room,77,1,1,2013-11-19,0.01,1,0\
+1931961,Studio 3rd Floor Annex House Toronto,3496109,J,,University,43.66473,-79.40824,Private room,85,2,5,2019-06-30,0.08,1,268\
+1937092,Trinity-Bellwoods Apartment!,5099605,Catherine,,Trinity-Bellwoods,43.65142,-79.41543,Entire home/apt,100,4,32,2019-07-14,0.51,1,211\
+1943045,DOWNTOWN BOUTIQUE LOFT,440188,Mark,,Kensington-Chinatown,43.65594,-79.40079,Entire home/apt,176,7,9,2016-10-31,0.14,1,219\
+1943718,Hotel Style Luxury Living + Parking,2409409,Michael,,Waterfront Communities-The Island,43.6407,-79.39741,Entire home/apt,122,3,292,2019-07-28,4.23,1,147\
+1945120,"Warmth, Privacy, Coffee + Best Area",10061029,Gg,,Little Portugal,43.64601,-79.42484,Private room,90,3,96,2017-05-07,1.39,1,159\
+1978673,"Beautiful large apartment, you'll feel at home!",10212280,Martin,,Briar Hill-Belgravia,43.69824,-79.4487,Entire home/apt,78,7,53,2019-07-31,0.81,1,4\
+1980023,Two Bedroom Furnished Suite on the Harbourfront,785826,Arlene,,Waterfront Communities-The Island,43.64128,-79.38108,Entire home/apt,135,4,5,2019-03-06,0.09,24,12\
+1984190,"Cozy Colourful room, FREE parking*",7026137,Oxana,,Willowdale West,43.76908,-79.41576,Private room,58,14,24,2019-04-28,0.35,1,35\
+1986934,Priv room/priv bath in 
+\f3 \uc0\u10084 \u65039 
+\f0  Tdot,10249063,Dee,,Waterfront Communities-The Island,43.64016,-79.39839,Private room,68,2,104,2019-08-05,2.83,1,44\
+1989937,Fashion District- King W/Bathurst,3263375,Francesco,,Waterfront Communities-The Island,43.64558,-79.40281,Entire home/apt,159,1,221,2019-07-21,3.25,1,7\
+1992288,Gorgeous large open loft apartment,9794542,Meher,,South Parkdale,43.64056,-79.4335,Entire home/apt,88,30,28,2015-06-30,0.41,1,0\
+1997637,Cozy 1 bedroom with balcony,9110998,Raquel,,Mount Pleasant West,43.69797,-79.39397,Entire home/apt,90,3,0,,,1,0\
+2000685,"Loft Apartment, Heart of Bellwoods",1842422,Yasmin,,Little Portugal,43.64564,-79.4245,Entire home/apt,105,6,80,2019-04-01,1.17,1,44\
+2000745,Cozy 1 bedroom basement apartment,1011373,Brigitte,,Junction Area,43.67641,-79.47296,Entire home/apt,65,2,79,2019-07-10,1.18,1,152\
+2003970,"Incredible view, 2 bed + 2 bath!",10317874,David,,Cabbagetown-South St.James Town,43.6665,-79.37528,Entire home/apt,155,7,2,2015-09-01,0.04,1,17\
+2013973,"Great Location, clean and safe",10360224,Kathleen,,Niagara,43.64101,-79.41363,Entire home/apt,106,1,3,2016-01-01,0.06,1,0\
+2016823,Chic Entertainment District Condo,10372276,Ashley,,Waterfront Communities-The Island,43.64541,-79.39454,Entire home/apt,184,2,116,2019-08-05,3.19,1,18\
+2020201,800ft\'b2 - Beautiful & Clean 1 +Den ,6616887,Sara,,Islington-City Centre West,43.63931,-79.53586,Entire home/apt,200,1,1,2014-01-04,0.01,1,0\
+2026887,Funky 1 BD in hip west neighborhood,10302323,Joseph,,Dovercourt-Wallace Emerson-Junction,43.66094,-79.43244,Entire home/apt,114,3,70,2018-10-09,1.03,1,0\
+2041127,Luxury Penthouse @ Heart Of Mimico,10468498,Ade,,Mimico (includes Humber Bay Shores),43.63163,-79.47466,Entire home/apt,119,30,5,2019-06-28,0.08,20,159\
+2044725,Large kitsch 1bdrm in trendy hood,10484240,Anya,,Trinity-Bellwoods,43.65072,-79.424,Entire home/apt,98,4,6,2019-05-31,0.09,1,57\
+2045208,Cozy Condo near CN Tower - downtown,4356799,T.,,Waterfront Communities-The Island,43.63994,-79.3929,Entire home/apt,94,1,54,2018-10-26,0.80,18,241\
+2055349,Loft Style Executive 1 BR in Heart of King West!,1513372,Ev & Amber,,Waterfront Communities-The Island,43.64639,-79.39633,Entire home/apt,160,120,6,2019-06-28,0.22,1,251\
+2056070,2 Story Town W/14ft Ceilings in Trendy Queen West,10513933,Erin,,Little Portugal,43.64467,-79.42784,Entire home/apt,350,2,11,2019-07-26,0.35,1,76\
+2061445,Upper Beach House Overlooking Park with Parking,9116432,Christian Marie,,East End-Danforth,43.67922,-79.30838,Entire home/apt,268,1,45,2019-07-18,0.88,2,334\
+2062078,Beautiful Leslieville Home w Parking,9096492,Liza,,South Riverdale,43.66041,-79.33402,Entire home/apt,249,2,40,2019-08-05,0.58,1,337\
+2062795,Writer's Luxury Downtown Condo,7874247,Jen,,Niagara,43.63779,-79.41593,Entire home/apt,565,2,2,2014-06-28,0.03,1,219\
+2067408,Lovely Victorian w/parking,10574280,Alan,,Junction Area,43.66347,-79.46313,Private room,89,1,0,,,1,0\
+2068172,Furnished Luxurious Condo,10578094,Payam,,Newtonbrook West,43.78101,-79.41743,Entire home/apt,118,3,1,2016-08-29,0.03,1,0\
+2071326,Beautiful Studio Apt-Entertainmnt District-Toronto,1718194,Shaz And Kanwal,,Waterfront Communities-The Island,43.64586,-79.39208,Entire home/apt,129,7,22,2019-06-17,0.33,31,76\
+2075514,STYLISH CONDO (2 BED 2 BATH) LAKE-SHORE +PARKING.,1631989,Digio,,Waterfront Communities-The Island,43.64803,-79.37393,Entire home/apt,160,4,84,2019-07-07,1.69,2,174\
+2078597,Stylish Apartment in the Heart of Roncesvalles Village,10547214,Kate,,Roncesvalles,43.64616,-79.44458,Entire home/apt,119,1,406,2019-08-07,5.98,1,324\
+2082829,Downtown 1 Bedroom+Parking+WiFi,10639186,Oksana,,Waterfront Communities-The Island,43.64954,-79.389,Entire home/apt,98,180,20,2017-09-02,0.31,1,176\
+2087575,Basement Apartment in Little Italy,10656885,Little Italy Suites,,Palmerston-Little Italy,43.65637,-79.42249,Entire home/apt,54,3,67,2019-06-09,1.31,3,3\
+2094327,1 bd Apartment + Balcony Downtown T.O Queen West,5416830,Victoria,,Kensington-Chinatown,43.65154,-79.38856,Entire home/apt,125,1,14,2017-07-16,0.37,1,0\
+2104845,Comfy/Charming 1 bedroom in Downtown Toronto,2892745,Matt,,Little Portugal,43.64882,-79.43393,Entire home/apt,150,2,1,2018-04-01,0.06,1,0\
+2113457,Spacious 1BD & Sun Room,10775335,Nadine,,Bay Street Corridor,43.65618,-79.38289,Entire home/apt,100,120,4,2015-11-01,0.08,1,359\
+2117841,Apartment in Seaton Village/Annex,3370930,Jeannette,,Annex,43.67203,-79.41622,Entire home/apt,80,3,19,2019-07-28,0.80,1,101\
+2123691,Boutique Condo in the West End,10830387,Mark,,Stonegate-Queensway,43.62567,-79.49071,Entire home/apt,90,5,1,2018-03-16,0.06,1,0\
+2126181,"The Yoga House,  Yoga, Thai Massage",10845253,Celeste,,Woodbine Corridor,43.68177,-79.31625,Private room,180,2,9,2016-09-14,0.15,1,189\
+2138766,2BR Home Trendy Queen West West,3694374,Stacey,,Little Portugal,43.64482,-79.4257,Entire home/apt,176,3,16,2018-03-13,0.26,1,0\
+2140175,Trinity Bellwoods House/Loft,8024877,Annette,,Trinity-Bellwoods,43.64775,-79.40905,Entire home/apt,141,8,22,2018-11-03,0.34,2,311\
+2143897,"Family Friendly Apt., Indian Rd",459872,Barbara,,High Park North,43.66164,-79.45692,Entire home/apt,125,7,11,2018-11-14,0.17,1,337\
+2145647,Luxury One bedroom Fully Furnished- ICON 4,1718194,Shaz And Kanwal,,Waterfront Communities-The Island,43.64384,-79.39193,Entire home/apt,150,3,20,2019-07-14,0.31,31,88\
+2150181,3BR Family Home sleeps 6 - Midtown,9317720,Kelly,,Yonge-Eglinton,43.70501,-79.40024,Entire home/apt,315,4,6,2015-07-26,0.10,1,0\
+2150352,Nice affordable @ Don Mills subway in Toronto J,65479,Irene,,Pleasant View,43.77907,-79.32956,Private room,28,5,5,2019-05-01,0.19,10,342\
+2151532,Queen bed in Toronto apartment,6741120,Ted,,Palmerston-Little Italy,43.65703,-79.40867,Private room,55,3,57,2019-07-13,0.86,7,230\
+2154933,Spacious Midtown Apt near Subway - Sleeps 5,5961276,Yen,,Yonge-Eglinton,43.70593,-79.40058,Entire home/apt,100,2,65,2018-12-30,0.97,1,11\
+2164586,Best city view in King West!,11044712,Tdot,,Niagara,43.64247,-79.41246,Entire home/apt,229,3,8,2017-08-26,0.12,1,0\
+2164945,Room in Beautiful Big Parkdale Home,2518768,Sari,,South Parkdale,43.63647,-79.44308,Private room,50,5,9,2019-04-20,0.15,2,180\
+2165395,"Bright, clean in quiet hood, parking included",11048824,Jen,,Little Portugal,43.64498,-79.43251,Entire home/apt,150,5,10,2019-01-01,0.16,1,48\
+2165577,Lovely apt with courtyard view,7341708,Vitaly,,Waterfront Communities-The Island,43.63997,-79.39551,Entire home/apt,170,7,0,,,1,0\
+2166931,Chic Toronto Condo + Pool (Airport),10724994,Nike,,West Humber-Clairville,43.72497,-79.61648,Entire home/apt,103,7,27,2019-07-20,0.40,2,44\
+2169346,In the middle of the action II,2016724,Maria,,Annex,43.66928,-79.39738,Private room,58,4,70,2019-07-06,1.04,1,99\
+2171366,A spectacular and authentic loft!,11076856,Joanne,,Dovercourt-Wallace Emerson-Junction,43.66772,-79.42808,Entire home/apt,130,4,9,2019-05-10,0.14,1,129\
+2181695,Luxury Condo on Front Street West,10468498,Ade,,Waterfront Communities-The Island,43.64491,-79.3883,Entire home/apt,150,3,92,2019-07-08,1.37,20,0\
+2181793,Trinity Suites - Luxury Condo on York Street - Y1,10468498,Ade,,Waterfront Communities-The Island,43.64145,-79.38343,Entire home/apt,119,1,66,2019-07-21,1.57,20,132\
+2207257,Bright Cheery Home Steps to Boardwalk,11259817,Pamela & Darryl Glover,,The Beaches,43.66864,-79.30555,Entire home/apt,150,5,24,2017-08-21,0.36,1,208\
+2208685,Luxury1+1 BDR Fully Furnished-Dwntown-Cn Tower,1718194,Shaz And Kanwal,,Waterfront Communities-The Island,43.64461,-79.39229,Entire home/apt,199,3,12,2019-07-21,0.18,31,151\
+2210700,Charming 1 bed on 2nd fl Victorian.,11277421,Julie,,Waterfront Communities-The Island,43.64232,-79.40171,Entire home/apt,90,3,38,2016-04-16,0.57,1,293\
+2223343,Room for Rent,11345136,Dhea,,Caledonia-Fairbank,43.69416,-79.44974,Private room,80,1,0,,,1,176\
+2244309,groundFLOUR  - @pingpongHOUSE,11463589,Ryan,,Trinity-Bellwoods,43.64927,-79.41144,Private room,119,1,30,2018-04-09,0.84,7,281\
+2248986,"Rm.Sgl Bed.1min-QueenSt,5 min-Beach",6884061,Roberta,,The Beaches,43.67464,-79.28916,Private room,45,2,32,2019-08-04,0.48,2,330\
+2257124,Cozy & Clean Room -3 Story home,3540058,Adam & Jess,,Woodbine Corridor,43.67926,-79.31065,Private room,80,1,60,2019-08-01,0.98,1,335\
+2259492,Furnished room for rent,706785,Esther,,Willowdale East,43.76035,-79.40689,Private room,55,1,13,2019-01-23,0.20,2,365\
+2262774,Downtown East Cozy Private Bed_Bath,3327704,Shan,,South Riverdale,43.65737,-79.35233,Private room,45,2,23,2019-04-30,0.42,1,0\
+2267889,Bright and Airy Two Bedroom With Parking,5927200,Genevieve,,Oakridge,43.69737,-79.27037,Entire home/apt,90,1,298,2019-08-07,5.76,1,314\
+2272479,Trendy Dundas West Location,1495412,Vanessa,,Little Portugal,43.64954,-79.43659,Entire home/apt,126,4,15,2019-07-06,0.25,1,0\
+2274060,1 BR-Close to Yonge & Eglinton 204,1854872,Raja,,Flemingdon Park,43.72123,-79.33585,Private room,40,2,30,2019-04-25,0.50,2,282\
+2284658,One bedroom High Park Roncesvalles,2441761,Blair And Carla,,High Park-Swansea,43.65531,-79.45258,Entire home/apt,69,14,23,2019-03-17,0.35,1,1\
+2292379,Special Studio Suite - Pantages Tower Toronto,4124418,Ashish,,Church-Yonge Corridor,43.65526,-79.37947,Entire home/apt,200,3,6,2015-09-22,0.09,15,342\
+2296506,Fully Furnished Downtown Lake view,11729337,Ramy,,Waterfront Communities-The Island,43.64033,-79.37938,Entire home/apt,119,7,47,2019-07-24,0.72,3,235\
+2298592,Cozy attic room in shared house,2441074,Sarah,,Palmerston-Little Italy,43.65987,-79.40974,Private room,40,3,0,,,1,0\
+2303169,Home for Rent,11762310,Kelly,,Lawrence Park South,43.72328,-79.40456,Entire home/apt,500,3,4,2015-08-10,0.06,1,349\
+2316010,Lovely Bedroom Downtown by subway,11827037,Clara,,North St.James Town,43.66882,-79.37524,Private room,45,1,1,2015-08-18,0.02,1,0\
+2316147,Spacious Yorkville 2 BR 2 Bath,7828359,Kaye,,Rosedale-Moore Park,43.6709,-79.38403,Entire home/apt,239,30,43,2018-09-09,0.70,2,156\
+2319682,AUTHENTIC FEATHER FACTORY HARD LOFT!!!,5153529,Adrian,,Roncesvalles,43.6548,-79.45084,Entire home/apt,175,1,179,2019-07-26,2.76,2,305\
+2320778,"Cute, artsy & *BIG* 1-bdrm apt!",1215574,Melissa,,Palmerston-Little Italy,43.6588,-79.42436,Entire home/apt,105,3,18,2018-07-16,0.34,1,0\
+2320893,"Zen space, sauna & underground city",10796912,D,,University,43.66653,-79.39577,Entire home/apt,161,21,31,2017-08-12,0.47,1,343\
+2329180,"Private Bdrm - Shared 2 BdRm, on Yonge Subway Line",11897371,Frank,,Church-Yonge Corridor,43.66608,-79.38261,Private room,69,1,31,2019-07-11,0.72,1,307\
+2331224,Large Room in Victorian House,11905510,Peter,,Roncesvalles,43.64454,-79.43699,Private room,76,2,20,2018-10-06,0.33,1,66\
+2333145,Toronto Waterfront Luxury Suite,11917344,Maria,,Waterfront Communities-The Island,43.63702,-79.38138,Entire home/apt,125,180,0,,,1,365\
+2334361,"North York, Toronto! (Share)",11508116,Jonathan,,Bayview Village,43.7875,-79.37301,Shared room,94,1,0,,,1,0\
+2336683,North Toronto near Sheppard West Subway,11933948,Marlene,,Clanton Park,43.74889,-79.45284,Entire home/apt,98,4,8,2018-09-05,0.25,1,39\
+2339823,Gorgeous UpscaleCondo in DT Toronto,11950683,Basheer Nasir,,Church-Yonge Corridor,43.67024,-79.38041,Entire home/apt,93,180,4,2014-12-13,0.07,1,166\
+2356555,Kashaneh at LuxuryTwo Bedroom Meridian Building,12033867,Nancy,,Newtonbrook West,43.78034,-79.41753,Entire home/apt,190,1,41,2019-04-28,0.64,13,309\
+2361733,Double bed in Toronto apartment,6741120,Ted,,Palmerston-Little Italy,43.65756,-79.40851,Private room,55,8,60,2019-02-21,0.90,7,326\
+2372531,Luxurious Loft in Fashion District,12120023,G,,Waterfront Communities-The Island,43.64464,-79.39712,Entire home/apt,105,7,19,2019-06-27,0.30,1,353\
+2380048,TORONTO - ROSEDALE FURNISHED FLAT,864492,George & Chabela,,Rosedale-Moore Park,43.67611,-79.37009,Entire home/apt,160,10,7,2019-07-03,0.12,1,112\
+2406479,Amazing apartment in Parkdale!,778213,Jessica,,South Parkdale,43.63965,-79.44022,Entire home/apt,150,2,17,2019-04-02,0.27,2,45\
+2413073,Chic house on a quiet street,4455921,Job,,North Riverdale,43.67146,-79.348,Entire home/apt,100,10,4,2016-08-24,0.07,2,0\
+2424754,Dufferin Grove Home,12391900,Joe,,Dufferin Grove,43.65502,-79.43573,Entire home/apt,85,365,0,,,1,0\
+2429122,Central Entertainment District 1 Bedroom Suite,1893345,Shana,,Waterfront Communities-The Island,43.6458,-79.38785,Entire home/apt,97,1,190,2019-07-10,2.92,3,39\
+2435178,Kipling Subway...2Bdrm...  30% discount Jan-April,1553458,Jay,,Islington-City Centre West,43.63942,-79.53569,Entire home/apt,119,28,6,2019-05-18,0.12,1,251\
+2436090,Boutique Toronto Corner Charmer,1619153,Naz,,South Riverdale,43.66368,-79.34069,Entire home/apt,423,2,4,2018-03-16,0.07,1,363\
+2437090,Sweet Room In the Heart of Kensington Market 
+\f2 \uc0\u10084 \u10084 
+\f0 ,12453564,Ashleigh,,Kensington-Chinatown,43.65422,-79.40316,Private room,54,1,28,2019-07-26,3.13,2,124\
+2447231,Cabbagetown Retreat,3250968,Andrew,,Cabbagetown-South St.James Town,43.66903,-79.36477,Private room,100,14,10,2016-09-07,0.15,1,0\
+2447970,Traveler's Home - Downtown,4420576,Vicky Tuo,,North St.James Town,43.668,-79.37118,Private room,118,2,73,2019-08-05,1.15,1,69\
+2450170,Central Downtown Toronto Full Condo,10139524,Karl,,Church-Yonge Corridor,43.66339,-79.3836,Entire home/apt,200,2,89,2018-10-01,1.38,1,0\
+2450907,Queens Point downtown east,113345,Adela,,South Riverdale,43.66218,-79.3413,Entire home/apt,159,5,10,2016-05-11,0.17,7,335\
+2453991,The Picaso by the Beaches/downtown,12535667,Lennie,,South Riverdale,43.66337,-79.34108,Entire home/apt,159,20,2,2015-04-14,0.04,4,169\
+2455129,Paradise Downtown Toronto,672978,Katy,,Waterfront Communities-The Island,43.64168,-79.37982,Entire home/apt,184,2,386,2019-07-25,5.94,2,0\
+2459983,Downtown Condo with Stunning Views,12578668,Tade,,Palmerston-Little Italy,43.65757,-79.409,Entire home/apt,98,7,31,2015-09-30,0.47,1,0\
+2468156,DANFORTH GEM - FURN 1 BDRM APT AVAIL. SEPT 3/18,2112835,Theresa,,Danforth,43.68516,-79.32522,Entire home/apt,88,5,8,2018-06-10,0.22,1,3\
+2477601,Yonge&Shepp-Entire Apt- FULLY FURNISHED APARTMENT,1718194,Shaz And Kanwal,,Willowdale East,43.75658,-79.40757,Entire home/apt,129,5,17,2019-06-09,0.29,31,157\
+2478644,Downtown home private 2 room suite,4288804,Natalie & Michael,,Annex,43.67193,-79.4167,Entire home/apt,141,2,97,2019-07-21,1.50,1,0\
+2478662,
+\f1 \'a1\'ee\'a1\'ee\'a1\'ee\'a1\'ee\'a1\'ee
+\f0  Welcome to Toronto! Welcome home!,11206244,Superhost,,Oakridge,43.69885,-79.2765,Private room,58,2,22,2019-04-17,0.33,26,354\
+2483875,Our pied-a-terre.  Walk Anywhere!,12621649,Paul Anthony,,Kensington-Chinatown,43.65428,-79.39368,Entire home/apt,75,14,13,2019-07-27,0.27,1,10\
+2488787,English Manor in the City,12737510,Mimi B.,,Mount Pleasant West,43.701,-79.38735,Entire home/apt,90,180,5,2015-09-01,0.08,1,364\
+2494635,Big central Toronto house furnished,12767936,Dylan,,Playter Estates-Danforth,43.68144,-79.35506,Entire home/apt,150,20,7,2019-01-05,0.11,1,54\
+2513582,Trendy Roncesvalles,12866214,Carole,,Roncesvalles,43.6537,-79.45049,Entire home/apt,226,5,6,2019-07-15,0.26,1,353\
+2516271,2+den bedrooms downtown Toronto University,12028383,Angela,,Bay Street Corridor,43.66054,-79.38662,Entire home/apt,210,5,143,2019-07-27,2.27,2,337\
+2524564,
+\f3 \uc0\u10084 \u65039 
+\f0  Executive Basement Private Room 
+\f3 \uc0\u10084 \u65039 
+\f0 ,32044025,Toronto,,Bayview Woods-Steeles,43.79324,-79.3719,Private room,45,2,12,2018-07-31,0.27,23,347\
+2525251,Gorgeous High Rise 1 + Den Downtown,12929845,Nikki,,Waterfront Communities-The Island,43.64702,-79.39285,Entire home/apt,210,3,0,,,1,0\
+2531934,PENTHOUSE LOFT - CN Tower/Lake View,12966791,Sic,,Waterfront Communities-The Island,43.63661,-79.39959,Entire home/apt,559,7,32,2018-09-30,0.49,1,360\
+2536191,Quiet yet Trendy Neighbourhood,12987171,Monika,,Runnymede-Bloor West Village,43.65446,-79.47852,Private room,143,1,0,,,1,189\
+2536696,JUNIOR MASTER BEDROOM /PRIVATE WC,9956811,Erica,,Mount Dennis,43.69152,-79.49756,Private room,146,1,5,2017-07-02,0.09,11,0\
+2536954,Beautiful Home - Little Italy,11341806,Mike,,Palmerston-Little Italy,43.65757,-79.42254,Entire home/apt,250,5,12,2018-07-28,0.20,1,37\
+2553718,Leslieville Escape,9649736,Kaitlin,,South Riverdale,43.66043,-79.3337,Private room,51,1,3,2018-08-31,0.05,2,0\
+2564746,Basement room separate entrance,13130261,John,,High Park-Swansea,43.64377,-79.4513,Private room,49,7,0,,,1,359\
+2565203,Modern Downtown Toronto Condo,13132884,Deepika,,Moss Park,43.65067,-79.36719,Entire home/apt,153,1,6,2015-10-27,0.09,1,0\
+2571251,Private Rooms Available NOT The Whole House,13165498,Beni,,Bayview Village,43.76666,-79.37689,Private room,49,7,14,2018-09-27,0.23,6,291\
+2578190,Liberty Village Ground Level Luxury Studio,13203114,Alexandra,,South Parkdale,43.63799,-79.42124,Entire home/apt,110,2,106,2019-03-31,1.62,2,254\
+2592785,Perfect location TO's Little Italy!,6893345,Christine,,Trinity-Bellwoods,43.65447,-79.42212,Private room,58,1,99,2019-07-30,1.58,4,158\
+2592905,Designer Parkdale Loft,13274168,Zab,,Roncesvalles,43.64344,-79.43301,Entire home/apt,150,7,18,2019-05-25,0.35,1,176\
+2593164,2 Storey Bellwoods Loft w/ park view + parking,7155827,Nadia,,Niagara,43.64504,-79.41176,Entire home/apt,157,2,16,2019-07-08,0.26,1,220\
+2601681,Sunrise Suite (225sq.ft) private en-suite bathroom,13324151,Albert,,Annex,43.66515,-79.41835,Private room,149,3,2,2016-05-01,0.04,1,363\
+2606989,Luxury Sub-Penthouse at Maple Leafs,6169934,Fahad,,Waterfront Communities-The Island,43.6432,-79.37962,Entire home/apt,865,30,1,2014-05-21,0.02,2,365\
+2607519,Private Room in 2 bedroom Apartment,13352980,Alan,,North St.James Town,43.66991,-79.37772,Private room,45,1,0,,,1,0\
+2611347,Furnished Room to Rent,694041,Mirza,,Mount Pleasant East,43.70955,-79.38127,Private room,90,3,5,2017-04-08,0.11,1,280\
+2613708,"Pvt Rm, 3 blks to Subway near beach",1781148,Rod & Teryl,,Danforth,43.68801,-79.31675,Private room,60,2,16,2018-08-09,0.26,1,327\
+2615254,"Room - Queen Bed, Minutes to Beach. Free parking.",6884061,Roberta,,The Beaches,43.67413,-79.28867,Private room,60,2,32,2019-08-02,0.51,2,356\
+2618025,New Modern Bachelor Unit Downtown Toronto (#2),9923100,Ed,,Church-Yonge Corridor,43.66698,-79.38215,Entire home/apt,78,5,86,2019-08-06,1.34,7,287\
+2625502,Modern Living in Trendy Queen West,10658511,Jordan & Luke,,Niagara,43.63816,-79.42038,Entire home/apt,100,3,15,2019-08-05,0.24,1,0\
+2634306,Bloordale Village Inn 30s to Subway,7457259,Pedro,,Dovercourt-Wallace Emerson-Junction,43.66368,-79.44005,Private room,61,1,161,2019-03-10,2.64,2,310\
+2634635,Downtown Toronto Modern Chic,3055556,Bo,,Cabbagetown-South St.James Town,43.66646,-79.37537,Entire home/apt,169,1,32,2017-10-23,0.67,1,362\
+2636061,Boutique Loft in Trendy King West,13497487,Tina,,Waterfront Communities-The Island,43.64157,-79.40053,Entire home/apt,149,1,4,2018-06-27,0.28,1,142\
+2645028,Cozy Condo with Piano & Sunshine,9932867,Elaine,,Bay Street Corridor,43.66144,-79.38552,Entire home/apt,92,3,2,2016-04-14,0.05,1,0\
+2660334,Great Home for Families and Business Trips,970712,Ana,,Dovercourt-Wallace Emerson-Junction,43.66545,-79.44571,Entire home/apt,300,3,73,2019-07-25,1.30,1,137\
+2665727,Victorian House - lower Cabbagetown,3459639,Dennis,,Moss Park,43.65852,-79.36617,Private room,54,2,49,2019-07-23,0.76,1,165\
+2666562,"Beautiful, Bright Apt. with free parking",13647990,Lina And Paul,,Cliffcrest,43.73334,-79.23133,Entire home/apt,54,2,338,2019-08-04,5.35,2,298\
+2666635,Room in 1st Class Neighbourhood,11206244,Superhost,,Bayview Woods-Steeles,43.79268,-79.37131,Private room,58,4,9,2015-07-25,0.14,26,363\
+2676883,"""A private bedroom"" Near Downtown Toronto!",3741602,Kay,,Brookhaven-Amesbury,43.69877,-79.4938,Private room,105,3,17,2018-08-06,0.27,7,6\
+2684516,Aberdeen Suite / Large Modern Bedroom Downtown,3982898,Andrew,,Cabbagetown-South St.James Town,43.66515,-79.37142,Private room,76,2,24,2018-12-01,0.44,3,34\
+2684891,Center of Downtown Toronto,1664538,John,,Moss Park,43.65814,-79.3693,Entire home/apt,124,30,0,,,3,279\
+2687601,Soho Residences Executive 1BR Condo,12440190,Benji,,Waterfront Communities-The Island,43.64306,-79.39091,Entire home/apt,98,60,4,2015-09-27,0.08,1,0\
+2692019,Bright and modern at Yonge/Eglinton,13777341,Naz,,Mount Pleasant West,43.70305,-79.39436,Private room,130,2,33,2019-07-13,0.54,3,317\
+2695468,2 beds on vibrant Queen West,2204634,Ny & Kristy,,Niagara,43.64635,-79.40793,Private room,73,3,251,2019-07-12,3.89,2,67\
+2700352,Amethyst Chic Room,13818332,Caitlin,,Church-Yonge Corridor,43.66155,-79.3766,Private room,76,1,290,2018-11-21,5.87,5,0\
+2705642,"""ARTS ON SEATON"", downtown TORONTO",13847343,Irina,,Moss Park,43.65766,-79.37025,Entire home/apt,350,4,30,2019-07-24,0.50,1,320\
+2719136,Lovely Private Suite in Riverdale,13915034,Megan,,North Riverdale,43.67379,-79.3437,Entire home/apt,84,3,124,2018-11-30,1.98,1,38\
+}
